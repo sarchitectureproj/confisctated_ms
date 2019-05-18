@@ -19,7 +19,7 @@ class Item(models.Model):
 
 class Category(models.Model):
     id = models.AutoField(primary_key=True)
-    name = models.CharField(max_length=30)
+    name = models.CharField(max_length=30,unique=True)
     description = models.CharField(max_length=255,blank=True)
     recoverable = models.BooleanField(default=True)
     delivery = models.ForeignKey(
@@ -31,10 +31,21 @@ class Category(models.Model):
         return self.name
 
 class Delivery(models.Model):
+
+    DELIVERY_POINTS = [
+        ('NNN', 'None'),
+        ('PN1', 'Norte'),
+        ('PC1', 'Centro'),
+        ('PS1', 'Sur'),
+        ('PC8', 'Cabina 08'),
+    ]
+
     id = models.AutoField(primary_key=True)
     open_time = models.TimeField()
     close_time = models.TimeField()
-    delivery_point = models.CharField(max_length=255,blank=True,unique=True,null=True)
+    delivery_point = models.CharField(
+        max_length=3,
+        choices=DELIVERY_POINTS,
+        default='NNN')
     def __str__(self):
         return self.delivery_point
-    
