@@ -34,7 +34,7 @@ class Delivery(models.Model):
     id = models.AutoField(primary_key=True)
     open_time = models.TimeField()
     close_time = models.TimeField()
-    description = models.CharField(max_length=255,blank=True,unique=True,null=True)
+    delivery_point = models.CharField(max_length=255,blank=True,unique=True,null=True)
     def __str__(self):
-        return self.name
+        return self.delivery_point
     
