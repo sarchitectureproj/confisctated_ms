@@ -25,7 +25,7 @@ SECRET_KEY = 'i*rq&uj%kiu=)%x&wagli8(2zt4s1cu*@f!iy%ponr@zea(s7+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1','localhost','192.168.99.101','192.168.99.102']
 
 
 # Application definition
@@ -78,10 +78,10 @@ WSGI_APPLICATION = 'confiscated_ms.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'confiscated_items_db',
-        'USER': 'root',
-        'PASSWORD': 'toor',
-        'HOST': 'localhost',
+        'NAME': 'confiscated_ms',
+        'USER': 'cite',
+        'PASSWORD': 'citepp',
+        'HOST': 'confiscated-db',
         'PORT': '3306',
     }
 }
