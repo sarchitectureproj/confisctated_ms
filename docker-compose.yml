@@ -1,21 +1,30 @@
 version: "2.1"
 
-services:
-    confiscated-ms:
-        build: confiscated_ms/.
-        command: bash -c "python manage.py makemigrations && python manage.py migrate && python manage.py runserver 0.0.0.0:8000"
-        container_name: confiscated_ms
-        ports:
-            - "8000:8000"
-        depends_on:
-            - confiscated-db
-            
+services:            
     confiscated-db:
         image: mysql:5.7
         ports:
         - '3306:3306'
         environment:
             MYSQL_ROOT_PASSWORD: citepp
-            MYSQL_DATABASE: confiscated_ms
+            MYSQL_DATABASE: confiscated_db
             MYSQL_USER: cite
             MYSQL_PASSWORD: citepp
+        healthcheck:
+            test: "mysqlcheck -u$$MYSQL_USER -p$$MYSQL_PASSWORD $$MYSQL_DATABASE"
+            interval: 20s
+            timeout: 5s
+            retries: 15
+
+    confiscated-ms:
+        build: confiscated_ms/.
+        command: bash -c "python manage.py makemigrations && python manage.py migrate && python manage.py runserver 0.0.0.0:8000"
+        ports:
+            - "8000:8000"
+        depends_on:
+            confiscated-db:
+                condition: service_healthy
+        healthcheck:
+            test: "curl -I confiscated-ms:8000/confiscated_ms/delivery/ --fail"
+            interval: 20s
+            retries: 10
