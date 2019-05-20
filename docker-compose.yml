@@ -18,13 +18,13 @@ services:
 
     confiscated-ms:
         build: confiscated_ms/.
-        command: bash -c "python manage.py makemigrations && python manage.py migrate && python manage.py runserver 0.0.0.0:8000"
+        command: bash -c "python manage.py makemigrations && python manage.py migrate && python manage.py runserver 0.0.0.0:4003"
         ports:
-            - "8000:8000"
+            - "4003:4003"
         depends_on:
             confiscated-db:
                 condition: service_healthy
         healthcheck:
-            test: "curl -I confiscated-ms:8000/confiscated_ms/delivery/ --fail"
+            test: "curl -I confiscated-ms:4003/confiscated_ms/delivery/ --fail"
             interval: 20s
             retries: 10
