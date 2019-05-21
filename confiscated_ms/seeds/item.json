@@ -1,0 +1,902 @@
+[
+    {
+        "name": "Hawai'i Island Sedge",
+        "confiscation_date": "2018-09-04",
+        "confiscation_time": "0:33:46",
+        "weight": 88.1,
+        "quantity": 62,
+        "category": 19,
+        "passenger": 1995
+    },
+    {
+        "name": "Pale Island Spleenwort",
+        "confiscation_date": "2018-12-21",
+        "confiscation_time": "12:20:43",
+        "weight": 13.2,
+        "quantity": 64,
+        "category": 5,
+        "passenger": 2000
+    },
+    {
+        "name": "Clausena",
+        "confiscation_date": "2018-12-07",
+        "confiscation_time": "2:00:40",
+        "weight": 65.9,
+        "quantity": 92,
+        "category": 15,
+        "passenger": 2005
+    },
+    {
+        "name": "Vetivergrass",
+        "confiscation_date": "2018-06-15",
+        "confiscation_time": "3:06:53",
+        "weight": 2.9,
+        "quantity": 18,
+        "category": 17,
+        "passenger": 2003
+    },
+    {
+        "name": "Wax Currant",
+        "confiscation_date": "2019-05-07",
+        "confiscation_time": "12:18:16",
+        "weight": 70.2,
+        "quantity": 91,
+        "category": 4,
+        "passenger": 1998
+    },
+    {
+        "name": "Smallflower Miterwort",
+        "confiscation_date": "2018-10-17",
+        "confiscation_time": "0:38:51",
+        "weight": 13.0,
+        "quantity": 43,
+        "category": 19,
+        "passenger": 1989
+    },
+    {
+        "name": "Pale Bugseed",
+        "confiscation_date": "2019-01-19",
+        "confiscation_time": "20:08:23",
+        "weight": 99.9,
+        "quantity": 100,
+        "category": 7,
+        "passenger": 2006
+    },
+    {
+        "name": "Rose Silene",
+        "confiscation_date": "2018-07-28",
+        "confiscation_time": "0:15:07",
+        "weight": 44.2,
+        "quantity": 59,
+        "category": 15,
+        "passenger": 1992
+    },
+    {
+        "name": "Creeping Grovebur",
+        "confiscation_date": "2018-08-07",
+        "confiscation_time": "12:22:21",
+        "weight": 58.9,
+        "quantity": 12,
+        "category": 20,
+        "passenger": 2000
+    },
+    {
+        "name": "Blodgett's Crowngrass",
+        "confiscation_date": "2018-08-06",
+        "confiscation_time": "7:52:17",
+        "weight": 24.1,
+        "quantity": 81,
+        "category": 20,
+        "passenger": 1995
+    },
+    {
+        "name": "False Tiger Orchid",
+        "confiscation_date": "2019-03-12",
+        "confiscation_time": "6:10:29",
+        "weight": 73.8,
+        "quantity": 20,
+        "category": 19,
+        "passenger": 2006
+    },
+    {
+        "name": "Nuttall's Evening Primrose",
+        "confiscation_date": "2019-02-25",
+        "confiscation_time": "5:36:56",
+        "weight": 5.8,
+        "quantity": 34,
+        "category": 18,
+        "passenger": 1993
+    },
+    {
+        "name": "Anzia Lichen",
+        "confiscation_date": "2019-01-24",
+        "confiscation_time": "14:21:19",
+        "weight": 35.2,
+        "quantity": 26,
+        "category": 15,
+        "passenger": 2011
+    },
+    {
+        "name": "Cape Tulip",
+        "confiscation_date": "2019-04-22",
+        "confiscation_time": "7:30:44",
+        "weight": 82.2,
+        "quantity": 53,
+        "category": 20,
+        "passenger": 2006
+    },
+    {
+        "name": "Winecup Clarkia",
+        "confiscation_date": "2019-01-29",
+        "confiscation_time": "17:29:04",
+        "weight": 10.9,
+        "quantity": 85,
+        "category": 9,
+        "passenger": 1998
+    },
+    {
+        "name": "Spurge",
+        "confiscation_date": "2018-12-17",
+        "confiscation_time": "7:43:30",
+        "weight": 87.3,
+        "quantity": 31,
+        "category": 1,
+        "passenger": 1994
+    },
+    {
+        "name": "Yellowleaf Iris",
+        "confiscation_date": "2019-04-15",
+        "confiscation_time": "9:42:31",
+        "weight": 17.2,
+        "quantity": 88,
+        "category": 17,
+        "passenger": 2007
+    },
+    {
+        "name": "Intermountain Bedstraw",
+        "confiscation_date": "2018-09-05",
+        "confiscation_time": "18:22:01",
+        "weight": 31.0,
+        "quantity": 74,
+        "category": 7,
+        "passenger": 2009
+    },
+    {
+        "name": "Ice Cold Buttercup",
+        "confiscation_date": "2019-01-31",
+        "confiscation_time": "20:17:43",
+        "weight": 68.0,
+        "quantity": 68,
+        "category": 14,
+        "passenger": 2002
+    },
+    {
+        "name": "Otay Manzanita",
+        "confiscation_date": "2018-08-13",
+        "confiscation_time": "21:10:05",
+        "weight": 12.0,
+        "quantity": 60,
+        "category": 1,
+        "passenger": 2005
+    },
+    {
+        "name": "Greene's Milkweed",
+        "confiscation_date": "2018-05-24",
+        "confiscation_time": "8:42:09",
+        "weight": 10.1,
+        "quantity": 74,
+        "category": 14,
+        "passenger": 2001
+    },
+    {
+        "name": "Fragrant Bursera",
+        "confiscation_date": "2018-09-28",
+        "confiscation_time": "11:03:40",
+        "weight": 77.3,
+        "quantity": 72,
+        "category": 7,
+        "passenger": 2013
+    },
+    {
+        "name": "Mouse's Eye",
+        "confiscation_date": "2018-12-04",
+        "confiscation_time": "9:53:57",
+        "weight": 31.3,
+        "quantity": 87,
+        "category": 20,
+        "passenger": 2000
+    },
+    {
+        "name": "Spider Lupine",
+        "confiscation_date": "2018-09-25",
+        "confiscation_time": "5:19:47",
+        "weight": 27.0,
+        "quantity": 49,
+        "category": 20,
+        "passenger": 1997
+    },
+    {
+        "name": "Utah Pea",
+        "confiscation_date": "2018-05-27",
+        "confiscation_time": "20:41:38",
+        "weight": 83.7,
+        "quantity": 56,
+        "category": 7,
+        "passenger": 1968
+    },
+    {
+        "name": "Sullivant's Entodon Moss",
+        "confiscation_date": "2018-06-12",
+        "confiscation_time": "14:37:15",
+        "weight": 4.2,
+        "quantity": 25,
+        "category": 14,
+        "passenger": 1994
+    },
+    {
+        "name": "Pineland Golden Trumpet",
+        "confiscation_date": "2018-12-24",
+        "confiscation_time": "7:35:45",
+        "weight": 71.1,
+        "quantity": 15,
+        "category": 6,
+        "passenger": 1989
+    },
+    {
+        "name": "Aurinia",
+        "confiscation_date": "2019-01-25",
+        "confiscation_time": "5:52:23",
+        "weight": 65.2,
+        "quantity": 1,
+        "category": 18,
+        "passenger": 2004
+    },
+    {
+        "name": "Milkwood",
+        "confiscation_date": "2019-04-16",
+        "confiscation_time": "9:34:21",
+        "weight": 45.9,
+        "quantity": 96,
+        "category": 6,
+        "passenger": 2013
+    },
+    {
+        "name": "Peck's Indian Paintbrush",
+        "confiscation_date": "2019-01-18",
+        "confiscation_time": "23:26:03",
+        "weight": 15.8,
+        "quantity": 25,
+        "category": 8,
+        "passenger": 2009
+    },
+    {
+        "name": "Brookfoam",
+        "confiscation_date": "2019-05-08",
+        "confiscation_time": "6:32:50",
+        "weight": 59.7,
+        "quantity": 77,
+        "category": 15,
+        "passenger": 2010
+    },
+    {
+        "name": "Tweedy's Reedgrass",
+        "confiscation_date": "2018-09-17",
+        "confiscation_time": "22:16:38",
+        "weight": 74.2,
+        "quantity": 71,
+        "category": 14,
+        "passenger": 1989
+    },
+    {
+        "name": "Aleutian Draba",
+        "confiscation_date": "2018-06-21",
+        "confiscation_time": "15:12:01",
+        "weight": 45.4,
+        "quantity": 29,
+        "category": 14,
+        "passenger": 1996
+    },
+    {
+        "name": "South American Evening Primrose",
+        "confiscation_date": "2019-05-14",
+        "confiscation_time": "20:44:56",
+        "weight": 75.2,
+        "quantity": 51,
+        "category": 4,
+        "passenger": 1964
+    },
+    {
+        "name": "Blochman's Liveforever",
+        "confiscation_date": "2019-05-12",
+        "confiscation_time": "17:28:11",
+        "weight": 76.7,
+        "quantity": 16,
+        "category": 15,
+        "passenger": 1987
+    },
+    {
+        "name": "Striped Toadflax",
+        "confiscation_date": "2018-07-31",
+        "confiscation_time": "0:23:01",
+        "weight": 3.9,
+        "quantity": 75,
+        "category": 16,
+        "passenger": 1992
+    },
+    {
+        "name": "Ricegrass",
+        "confiscation_date": "2018-07-26",
+        "confiscation_time": "16:22:27",
+        "weight": 14.5,
+        "quantity": 80,
+        "category": 14,
+        "passenger": 2009
+    },
+    {
+        "name": "Western Waterleaf",
+        "confiscation_date": "2018-05-31",
+        "confiscation_time": "12:09:37",
+        "weight": 56.0,
+        "quantity": 67,
+        "category": 3,
+        "passenger": 1992
+    },
+    {
+        "name": "Brandegee's Cirriphyllum Moss",
+        "confiscation_date": "2019-02-23",
+        "confiscation_time": "20:10:29",
+        "weight": 97.6,
+        "quantity": 70,
+        "category": 12,
+        "passenger": 1996
+    },
+    {
+        "name": "Vasek's Clarkia",
+        "confiscation_date": "2018-08-20",
+        "confiscation_time": "15:47:47",
+        "weight": 77.5,
+        "quantity": 20,
+        "category": 12,
+        "passenger": 1994
+    },
+    {
+        "name": "African Sumac",
+        "confiscation_date": "2018-08-16",
+        "confiscation_time": "13:58:39",
+        "weight": 46.4,
+        "quantity": 17,
+        "category": 10,
+        "passenger": 1992
+    },
+    {
+        "name": "Tinker's Penny",
+        "confiscation_date": "2019-01-20",
+        "confiscation_time": "0:37:21",
+        "weight": 14.6,
+        "quantity": 97,
+        "category": 2,
+        "passenger": 1999
+    },
+    {
+        "name": "African-lily",
+        "confiscation_date": "2018-09-18",
+        "confiscation_time": "22:36:36",
+        "weight": 30.9,
+        "quantity": 12,
+        "category": 17,
+        "passenger": 1999
+    },
+    {
+        "name": "Laceshrub",
+        "confiscation_date": "2018-09-23",
+        "confiscation_time": "6:35:07",
+        "weight": 55.4,
+        "quantity": 97,
+        "category": 13,
+        "passenger": 1986
+    },
+    {
+        "name": "African Pepperwort",
+        "confiscation_date": "2018-07-05",
+        "confiscation_time": "11:11:39",
+        "weight": 80.5,
+        "quantity": 98,
+        "category": 4,
+        "passenger": 1991
+    },
+    {
+        "name": "Gray Mallee",
+        "confiscation_date": "2018-08-17",
+        "confiscation_time": "1:45:02",
+        "weight": 92.6,
+        "quantity": 51,
+        "category": 19,
+        "passenger": 1984
+    },
+    {
+        "name": "Beach Starwort",
+        "confiscation_date": "2018-10-31",
+        "confiscation_time": "11:39:19",
+        "weight": 63.5,
+        "quantity": 58,
+        "category": 19,
+        "passenger": 2005
+    },
+    {
+        "name": "Cypress Spurge",
+        "confiscation_date": "2018-08-31",
+        "confiscation_time": "6:09:28",
+        "weight": 51.1,
+        "quantity": 83,
+        "category": 13,
+        "passenger": 2005
+    },
+    {
+        "name": "Back's Sedge",
+        "confiscation_date": "2018-12-03",
+        "confiscation_time": "21:13:58",
+        "weight": 61.0,
+        "quantity": 84,
+        "category": 14,
+        "passenger": 2007
+    },
+    {
+        "name": "Tahawas Porpidia Lichen",
+        "confiscation_date": "2018-11-20",
+        "confiscation_time": "10:56:45",
+        "weight": 31.6,
+        "quantity": 91,
+        "category": 11,
+        "passenger": 1996
+    },
+    {
+        "name": "Starveling Milkvetch",
+        "confiscation_date": "2018-10-09",
+        "confiscation_time": "10:15:26",
+        "weight": 15.1,
+        "quantity": 54,
+        "category": 13,
+        "passenger": 1994
+    },
+    {
+        "name": "Asterophoma Lichen",
+        "confiscation_date": "2019-01-15",
+        "confiscation_time": "7:27:03",
+        "weight": 71.3,
+        "quantity": 11,
+        "category": 13,
+        "passenger": 2009
+    },
+    {
+        "name": "Blue Wild Indigo",
+        "confiscation_date": "2019-05-14",
+        "confiscation_time": "12:49:55",
+        "weight": 78.4,
+        "quantity": 66,
+        "category": 8,
+        "passenger": 2008
+    },
+    {
+        "name": "Cana Gorda Girdlepod",
+        "confiscation_date": "2019-01-07",
+        "confiscation_time": "20:00:56",
+        "weight": 71.1,
+        "quantity": 77,
+        "category": 8,
+        "passenger": 2005
+    },
+    {
+        "name": "Cleftleaf Wildheliotrope",
+        "confiscation_date": "2018-10-07",
+        "confiscation_time": "2:38:55",
+        "weight": 73.6,
+        "quantity": 32,
+        "category": 10,
+        "passenger": 2009
+    },
+    {
+        "name": "Beard Lichen",
+        "confiscation_date": "2019-05-18",
+        "confiscation_time": "20:31:41",
+        "weight": 2.2,
+        "quantity": 61,
+        "category": 3,
+        "passenger": 2008
+    },
+    {
+        "name": "Landolphia",
+        "confiscation_date": "2019-02-21",
+        "confiscation_time": "13:10:15",
+        "weight": 60.2,
+        "quantity": 18,
+        "category": 14,
+        "passenger": 2009
+    },
+    {
+        "name": "Round Pricklyhead Poppy",
+        "confiscation_date": "2019-01-31",
+        "confiscation_time": "13:26:19",
+        "weight": 58.7,
+        "quantity": 22,
+        "category": 18,
+        "passenger": 2006
+    },
+    {
+        "name": "Oblong Bryum Moss",
+        "confiscation_date": "2019-01-30",
+        "confiscation_time": "0:48:36",
+        "weight": 98.0,
+        "quantity": 63,
+        "category": 14,
+        "passenger": 2012
+    },
+    {
+        "name": "Woolly Locoweed",
+        "confiscation_date": "2019-03-21",
+        "confiscation_time": "20:22:53",
+        "weight": 22.4,
+        "quantity": 38,
+        "category": 4,
+        "passenger": 2008
+    },
+    {
+        "name": "Cliftonia",
+        "confiscation_date": "2018-08-19",
+        "confiscation_time": "5:34:40",
+        "weight": 71.3,
+        "quantity": 52,
+        "category": 2,
+        "passenger": 2010
+    },
+    {
+        "name": "Monkshood",
+        "confiscation_date": "2019-04-19",
+        "confiscation_time": "12:43:54",
+        "weight": 3.1,
+        "quantity": 23,
+        "category": 3,
+        "passenger": 2000
+    },
+    {
+        "name": "Bigelow's Desertgrass",
+        "confiscation_date": "2018-09-06",
+        "confiscation_time": "13:57:59",
+        "weight": 78.4,
+        "quantity": 53,
+        "category": 18,
+        "passenger": 2010
+    },
+    {
+        "name": "Spreading Nailwort",
+        "confiscation_date": "2018-06-30",
+        "confiscation_time": "23:30:19",
+        "weight": 96.4,
+        "quantity": 33,
+        "category": 13,
+        "passenger": 2011
+    },
+    {
+        "name": "Hybrid Locust",
+        "confiscation_date": "2018-05-20",
+        "confiscation_time": "6:32:46",
+        "weight": 50.7,
+        "quantity": 5,
+        "category": 3,
+        "passenger": 2006
+    },
+    {
+        "name": "Fourvalve Mimosa",
+        "confiscation_date": "2018-06-02",
+        "confiscation_time": "3:12:22",
+        "weight": 92.3,
+        "quantity": 1,
+        "category": 16,
+        "passenger": 2002
+    },
+    {
+        "name": "Red Mountain Stonecrop",
+        "confiscation_date": "2019-03-20",
+        "confiscation_time": "8:29:28",
+        "weight": 48.1,
+        "quantity": 5,
+        "category": 1,
+        "passenger": 1998
+    },
+    {
+        "name": "Slender Orcutt Grass",
+        "confiscation_date": "2018-06-20",
+        "confiscation_time": "3:50:07",
+        "weight": 79.8,
+        "quantity": 67,
+        "category": 16,
+        "passenger": 2012
+    },
+    {
+        "name": "Graceful Hawthorn",
+        "confiscation_date": "2018-12-15",
+        "confiscation_time": "15:42:50",
+        "weight": 24.8,
+        "quantity": 20,
+        "category": 9,
+        "passenger": 1995
+    },
+    {
+        "name": "Cliff Desertdandelion",
+        "confiscation_date": "2018-08-18",
+        "confiscation_time": "10:15:07",
+        "weight": 97.3,
+        "quantity": 92,
+        "category": 17,
+        "passenger": 1993
+    },
+    {
+        "name": "Boccone's Sandspurry",
+        "confiscation_date": "2019-01-20",
+        "confiscation_time": "7:07:53",
+        "weight": 56.2,
+        "quantity": 62,
+        "category": 17,
+        "passenger": 1994
+    },
+    {
+        "name": "Maritime Ceanothus",
+        "confiscation_date": "2019-01-18",
+        "confiscation_time": "22:24:12",
+        "weight": 28.0,
+        "quantity": 48,
+        "category": 11,
+        "passenger": 2009
+    },
+    {
+        "name": "Lacey Oak",
+        "confiscation_date": "2019-05-19",
+        "confiscation_time": "3:13:39",
+        "weight": 54.7,
+        "quantity": 68,
+        "category": 20,
+        "passenger": 1984
+    },
+    {
+        "name": "Western Silver Aster",
+        "confiscation_date": "2018-11-09",
+        "confiscation_time": "9:33:59",
+        "weight": 10.0,
+        "quantity": 8,
+        "category": 12,
+        "passenger": 2011
+    },
+    {
+        "name": "Bicolor Fanmustard",
+        "confiscation_date": "2018-09-17",
+        "confiscation_time": "8:57:14",
+        "weight": 4.1,
+        "quantity": 20,
+        "category": 17,
+        "passenger": 1990
+    },
+    {
+        "name": "Holozonia",
+        "confiscation_date": "2019-01-23",
+        "confiscation_time": "9:22:52",
+        "weight": 6.4,
+        "quantity": 55,
+        "category": 3,
+        "passenger": 2006
+    },
+    {
+        "name": "Larkspur",
+        "confiscation_date": "2018-06-25",
+        "confiscation_time": "22:59:00",
+        "weight": 5.2,
+        "quantity": 57,
+        "category": 4,
+        "passenger": 2002
+    },
+    {
+        "name": "Beet",
+        "confiscation_date": "2018-06-09",
+        "confiscation_time": "3:33:07",
+        "weight": 9.1,
+        "quantity": 50,
+        "category": 4,
+        "passenger": 1998
+    },
+    {
+        "name": "Common Goldenstar",
+        "confiscation_date": "2019-05-08",
+        "confiscation_time": "16:03:02",
+        "weight": 50.5,
+        "quantity": 58,
+        "category": 6,
+        "passenger": 1998
+    },
+    {
+        "name": "Planertree",
+        "confiscation_date": "2019-02-19",
+        "confiscation_time": "18:39:07",
+        "weight": 48.3,
+        "quantity": 57,
+        "category": 9,
+        "passenger": 1993
+    },
+    {
+        "name": "Whiteworm Lichen",
+        "confiscation_date": "2019-04-26",
+        "confiscation_time": "8:58:29",
+        "weight": 16.4,
+        "quantity": 17,
+        "category": 17,
+        "passenger": 2004
+    },
+    {
+        "name": "Algarrobo",
+        "confiscation_date": "2018-07-06",
+        "confiscation_time": "13:55:41",
+        "weight": 33.0,
+        "quantity": 59,
+        "category": 9,
+        "passenger": 1997
+    },
+    {
+        "name": "Manyflower Onion",
+        "confiscation_date": "2019-01-06",
+        "confiscation_time": "7:18:43",
+        "weight": 19.9,
+        "quantity": 86,
+        "category": 7,
+        "passenger": 1992
+    },
+    {
+        "name": "Cup Lichen",
+        "confiscation_date": "2018-09-28",
+        "confiscation_time": "9:18:02",
+        "weight": 95.5,
+        "quantity": 11,
+        "category": 17,
+        "passenger": 1999
+    },
+    {
+        "name": "Parry's Arnica",
+        "confiscation_date": "2019-04-26",
+        "confiscation_time": "18:44:29",
+        "weight": 20.0,
+        "quantity": 26,
+        "category": 19,
+        "passenger": 2007
+    },
+    {
+        "name": "Fuscidea Lichen",
+        "confiscation_date": "2018-12-11",
+        "confiscation_time": "4:59:35",
+        "weight": 29.3,
+        "quantity": 72,
+        "category": 11,
+        "passenger": 2001
+    },
+    {
+        "name": "Desert Evening Primrose",
+        "confiscation_date": "2019-01-02",
+        "confiscation_time": "5:58:03",
+        "weight": 91.8,
+        "quantity": 93,
+        "category": 16,
+        "passenger": 2003
+    },
+    {
+        "name": "Slender Spiderling",
+        "confiscation_date": "2018-11-10",
+        "confiscation_time": "8:29:49",
+        "weight": 15.9,
+        "quantity": 76,
+        "category": 14,
+        "passenger": 2003
+    },
+    {
+        "name": "Porter's Melicgrass",
+        "confiscation_date": "2018-10-01",
+        "confiscation_time": "11:59:12",
+        "weight": 18.5,
+        "quantity": 31,
+        "category": 3,
+        "passenger": 2010
+    },
+    {
+        "name": "Chiodecton Lichen",
+        "confiscation_date": "2019-02-06",
+        "confiscation_time": "17:34:41",
+        "weight": 10.8,
+        "quantity": 11,
+        "category": 12,
+        "passenger": 2012
+    },
+    {
+        "name": "Birmingham Blackberry",
+        "confiscation_date": "2019-01-04",
+        "confiscation_time": "8:19:22",
+        "weight": 36.6,
+        "quantity": 3,
+        "category": 14,
+        "passenger": 2006
+    },
+    {
+        "name": "Fineleaf Fumitory",
+        "confiscation_date": "2019-02-06",
+        "confiscation_time": "4:09:38",
+        "weight": 17.1,
+        "quantity": 23,
+        "category": 4,
+        "passenger": 2001
+    },
+    {
+        "name": "Polycoccum Lichen",
+        "confiscation_date": "2019-03-23",
+        "confiscation_time": "23:42:55",
+        "weight": 21.1,
+        "quantity": 16,
+        "category": 14,
+        "passenger": 1987
+    },
+    {
+        "name": "Arid Throne Fleabane",
+        "confiscation_date": "2018-12-07",
+        "confiscation_time": "17:40:31",
+        "weight": 60.8,
+        "quantity": 61,
+        "category": 14,
+        "passenger": 1994
+    },
+    {
+        "name": "Taralea",
+        "confiscation_date": "2018-12-16",
+        "confiscation_time": "16:20:28",
+        "weight": 57.9,
+        "quantity": 88,
+        "category": 10,
+        "passenger": 2005
+    },
+    {
+        "name": "Nyctaginia",
+        "confiscation_date": "2018-06-08",
+        "confiscation_time": "14:27:32",
+        "weight": 68.0,
+        "quantity": 50,
+        "category": 10,
+        "passenger": 1991
+    },
+    {
+        "name": "Flatsedge",
+        "confiscation_date": "2018-10-21",
+        "confiscation_time": "9:15:29",
+        "weight": 48.0,
+        "quantity": 88,
+        "category": 16,
+        "passenger": 2007
+    },
+    {
+        "name": "Galbanum",
+        "confiscation_date": "2019-01-28",
+        "confiscation_time": "12:38:02",
+        "weight": 65.1,
+        "quantity": 38,
+        "category": 19,
+        "passenger": 1998
+    },
+    {
+        "name": "King's Sandwort",
+        "confiscation_date": "2018-08-30",
+        "confiscation_time": "19:09:09",
+        "weight": 58.3,
+        "quantity": 32,
+        "category": 4,
+        "passenger": 1994
+    },
+    {
+        "name": "Intermediate Pottia Moss",
+        "confiscation_date": "2018-10-17",
+        "confiscation_time": "5:24:33",
+        "weight": 25.2,
+        "quantity": 63,
+        "category": 16,
+        "passenger": 1950
+    }
+]

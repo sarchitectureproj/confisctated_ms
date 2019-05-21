@@ -5,9 +5,10 @@ from django.utils import timezone
 class Item(models.Model):
     id = models.AutoField(primary_key=True)
     name = models.CharField(max_length=30)
-    confiscation = models.DateTimeField()
+    confiscation_date = models.DateField()
+    confiscation_time = models.TimeField()
     weight = models.FloatField(default=0)
-    quiantity = models.IntegerField(default=1)
+    quantity = models.IntegerField(default=1)
     category = models.ForeignKey(
         'Category',
         on_delete=models.SET_NULL,
