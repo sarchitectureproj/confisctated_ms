@@ -1,0 +1,102 @@
+[
+    {
+        "open_time": "0:58:44",
+        "close_time": "23:06:02",
+        "delivery_point": "P05"
+    },
+    {
+        "open_time": "3:09:19",
+        "close_time": "13:59:19",
+        "delivery_point": "P05"
+    },
+    {
+        "open_time": "6:45:33",
+        "close_time": "15:44:11",
+        "delivery_point": "P01"
+    },
+    {
+        "open_time": "10:55:58",
+        "close_time": "22:02:36",
+        "delivery_point": "P05"
+    },
+    {
+        "open_time": "4:42:29",
+        "close_time": "19:55:03",
+        "delivery_point": "P01"
+    },
+    {
+        "open_time": "3:47:51",
+        "close_time": "15:09:12",
+        "delivery_point": "P05"
+    },
+    {
+        "open_time": "5:18:04",
+        "close_time": "15:57:47",
+        "delivery_point": "P04"
+    },
+    {
+        "open_time": "7:22:58",
+        "close_time": "21:01:59",
+        "delivery_point": "P03"
+    },
+    {
+        "open_time": "3:00:20",
+        "close_time": "13:05:57",
+        "delivery_point": "P01"
+    },
+    {
+        "open_time": "9:22:56",
+        "close_time": "12:40:01",
+        "delivery_point": "P02"
+    },
+    {
+        "open_time": "5:34:58",
+        "close_time": "19:56:12",
+        "delivery_point": "P05"
+    },
+    {
+        "open_time": "6:38:52",
+        "close_time": "15:52:00",
+        "delivery_point": "P05"
+    },
+    {
+        "open_time": "4:42:53",
+        "close_time": "23:00:52",
+        "delivery_point": "P03"
+    },
+    {
+        "open_time": "1:13:53",
+        "close_time": "23:50:07",
+        "delivery_point": "P02"
+    },
+    {
+        "open_time": "2:55:29",
+        "close_time": "20:27:32",
+        "delivery_point": "P02"
+    },
+    {
+        "open_time": "2:17:55",
+        "close_time": "20:41:54",
+        "delivery_point": "P05"
+    },
+    {
+        "open_time": "7:35:57",
+        "close_time": "22:40:42",
+        "delivery_point": "P05"
+    },
+    {
+        "open_time": "7:20:55",
+        "close_time": "23:41:19",
+        "delivery_point": "P05"
+    },
+    {
+        "open_time": "0:48:35",
+        "close_time": "21:22:55",
+        "delivery_point": "P02"
+    },
+    {
+        "open_time": "4:25:47",
+        "close_time": "12:13:14",
+        "delivery_point": "P05"
+    }
+]

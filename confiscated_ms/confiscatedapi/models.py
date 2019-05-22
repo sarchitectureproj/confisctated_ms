@@ -1,51 +1,74 @@
 from django.db import models
 from django.utils import timezone
+import datetime
+from django.core.exceptions import ValidationError
 # Create your models here.
+
+
+
 
 class Item(models.Model):
     id = models.AutoField(primary_key=True)
-    name = models.CharField(max_length=30)
-    confiscation = models.DateTimeField()
-    weight = models.FloatField(default=0)
-    quiantity = models.IntegerField(default=1)
+    name = models.CharField(max_length=20)
+    confiscation_date = models.DateField(null=True)
+    confiscation_time = models.TimeField(null=True)
+    quantity = models.IntegerField(default=1)
     category = models.ForeignKey(
         'Category',
-        on_delete=models.SET_NULL,
-        null=True,
+        on_delete=models.PROTECT,
     )
     passenger = models.IntegerField(blank=False)
     def __str__(self):
         return self.name
 
 class Category(models.Model):
+    
     id = models.AutoField(primary_key=True)
-    name = models.CharField(max_length=30,unique=True)
+    name = models.CharField(max_length=20,unique=True)
     description = models.CharField(max_length=255,blank=True)
     recoverable = models.BooleanField(default=True)
     delivery = models.ForeignKey(
         'Delivery',
-        on_delete=models.SET_NULL,
+        on_delete=models.PROTECT,
         null=True,
     )
+    
+    def save(self, *args, **kwargs):
+        if not self.recoverable:
+            self.delivery = None
+        super().save(*args, **kwargs)  # Call the "real" save() method.
+    
     def __str__(self):
         return self.name
+    
+    
 
 class Delivery(models.Model):
 
     DELIVERY_POINTS = [
-        ('NNN', 'None'),
-        ('PN1', 'Norte'),
-        ('PC1', 'Centro'),
-        ('PS1', 'Sur'),
-        ('PC8', 'Cabina 08'),
+        ('P01', 'Punto 01'),
+        ('P02', 'Punto 02'),
+        ('P03', 'Punto 03'),
+        ('P04', 'Punto 04'),
+        ('P05', 'Punto 05'),
     ]
 
     id = models.AutoField(primary_key=True)
-    open_time = models.TimeField()
-    close_time = models.TimeField()
+    open_time = models.TimeField(null=False)
+    close_time = models.TimeField(null=False)
     delivery_point = models.CharField(
         max_length=3,
         choices=DELIVERY_POINTS,
-        default='NNN')
+        default='P01')
+
+    def clean(self):
+        # Don't allow draft entries to have a pub_date.
+        if self.open_time >= self.close_time:
+            raise ValidationError('Open date must be lower than close time')
+
+    def save(self, *args, **kwargs):
+        self.full_clean()
+        return super(Delivery, self).save(*args, **kwargs)
+
     def __str__(self):
-        return self.delivery_point
+        return '%s: %s - %s' % (self.delivery_point, self.open_time, self.close_time)
