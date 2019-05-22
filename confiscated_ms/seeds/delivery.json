@@ -1,212 +1,102 @@
 [
     {
-        "open_time": "20:08:45",
-        "close_time": "13:25:38",
-        "delivery_point": "NNN"
+        "open_time": "0:58:44",
+        "close_time": "23:06:02",
+        "delivery_point": "P05"
     },
     {
-        "open_time": "12:58:31",
-        "close_time": "13:22:17",
-        "delivery_point": "PN1"
+        "open_time": "3:09:19",
+        "close_time": "13:59:19",
+        "delivery_point": "P05"
     },
     {
-        "open_time": "7:14:24",
-        "close_time": "16:43:13",
-        "delivery_point": "PC1"
+        "open_time": "6:45:33",
+        "close_time": "15:44:11",
+        "delivery_point": "P01"
     },
     {
-        "open_time": "9:27:12",
-        "close_time": "19:20:14",
-        "delivery_point": "PS1"
+        "open_time": "10:55:58",
+        "close_time": "22:02:36",
+        "delivery_point": "P05"
     },
     {
-        "open_time": "13:51:01",
-        "close_time": "14:43:50",
-        "delivery_point": "PC8"
+        "open_time": "4:42:29",
+        "close_time": "19:55:03",
+        "delivery_point": "P01"
     },
     {
-        "open_time": "23:40:12",
-        "close_time": "15:23:07",
-        "delivery_point": "NNN"
+        "open_time": "3:47:51",
+        "close_time": "15:09:12",
+        "delivery_point": "P05"
     },
     {
-        "open_time": "9:17:35",
-        "close_time": "19:32:35",
-        "delivery_point": "PN1"
+        "open_time": "5:18:04",
+        "close_time": "15:57:47",
+        "delivery_point": "P04"
     },
     {
-        "open_time": "11:12:42",
-        "close_time": "15:36:54",
-        "delivery_point": "PC1"
+        "open_time": "7:22:58",
+        "close_time": "21:01:59",
+        "delivery_point": "P03"
     },
     {
-        "open_time": "8:10:54",
-        "close_time": "16:52:45",
-        "delivery_point": "PS1"
+        "open_time": "3:00:20",
+        "close_time": "13:05:57",
+        "delivery_point": "P01"
     },
     {
-        "open_time": "17:43:40",
-        "close_time": "13:08:14",
-        "delivery_point": "PC8"
+        "open_time": "9:22:56",
+        "close_time": "12:40:01",
+        "delivery_point": "P02"
     },
     {
-        "open_time": "13:40:28",
-        "close_time": "14:21:58",
-        "delivery_point": "NNN"
+        "open_time": "5:34:58",
+        "close_time": "19:56:12",
+        "delivery_point": "P05"
     },
     {
-        "open_time": "10:09:01",
-        "close_time": "13:06:30",
-        "delivery_point": "PN1"
+        "open_time": "6:38:52",
+        "close_time": "15:52:00",
+        "delivery_point": "P05"
     },
     {
-        "open_time": "11:08:51",
-        "close_time": "16:36:04",
-        "delivery_point": "PC1"
+        "open_time": "4:42:53",
+        "close_time": "23:00:52",
+        "delivery_point": "P03"
     },
     {
-        "open_time": "21:24:06",
-        "close_time": "14:26:49",
-        "delivery_point": "PS1"
+        "open_time": "1:13:53",
+        "close_time": "23:50:07",
+        "delivery_point": "P02"
     },
     {
-        "open_time": "11:24:35",
-        "close_time": "15:50:03",
-        "delivery_point": "PC8"
+        "open_time": "2:55:29",
+        "close_time": "20:27:32",
+        "delivery_point": "P02"
     },
     {
-        "open_time": "23:40:36",
-        "close_time": "19:02:11",
-        "delivery_point": "NNN"
+        "open_time": "2:17:55",
+        "close_time": "20:41:54",
+        "delivery_point": "P05"
     },
     {
-        "open_time": "23:40:01",
-        "close_time": "19:50:20",
-        "delivery_point": "PN1"
+        "open_time": "7:35:57",
+        "close_time": "22:40:42",
+        "delivery_point": "P05"
     },
     {
-        "open_time": "13:11:17",
-        "close_time": "14:35:06",
-        "delivery_point": "PC1"
+        "open_time": "7:20:55",
+        "close_time": "23:41:19",
+        "delivery_point": "P05"
     },
     {
-        "open_time": "9:05:56",
-        "close_time": "14:09:01",
-        "delivery_point": "PS1"
+        "open_time": "0:48:35",
+        "close_time": "21:22:55",
+        "delivery_point": "P02"
     },
     {
-        "open_time": "11:26:21",
-        "close_time": "17:34:53",
-        "delivery_point": "PC8"
-    },
-    {
-        "open_time": "9:35:10",
-        "close_time": "17:28:27",
-        "delivery_point": "NNN"
-    },
-    {
-        "open_time": "13:07:03",
-        "close_time": "13:19:35",
-        "delivery_point": "PN1"
-    },
-    {
-        "open_time": "19:12:13",
-        "close_time": "16:03:46",
-        "delivery_point": "PC1"
-    },
-    {
-        "open_time": "13:04:34",
-        "close_time": "13:08:44",
-        "delivery_point": "PS1"
-    },
-    {
-        "open_time": "12:48:48",
-        "close_time": "13:27:28",
-        "delivery_point": "PC8"
-    },
-    {
-        "open_time": "16:03:52",
-        "close_time": "16:16:40",
-        "delivery_point": "NNN"
-    },
-    {
-        "open_time": "15:44:04",
-        "close_time": "19:13:56",
-        "delivery_point": "PN1"
-    },
-    {
-        "open_time": "9:21:54",
-        "close_time": "18:01:14",
-        "delivery_point": "PC1"
-    },
-    {
-        "open_time": "17:22:47",
-        "close_time": "14:44:57",
-        "delivery_point": "PS1"
-    },
-    {
-        "open_time": "10:38:51",
-        "close_time": "19:09:51",
-        "delivery_point": "PC8"
-    },
-    {
-        "open_time": "12:07:49",
-        "close_time": "16:32:39",
-        "delivery_point": "NNN"
-    },
-    {
-        "open_time": "13:52:29",
-        "close_time": "13:15:38",
-        "delivery_point": "PN1"
-    },
-    {
-        "open_time": "23:08:26",
-        "close_time": "17:13:37",
-        "delivery_point": "PC1"
-    },
-    {
-        "open_time": "16:18:20",
-        "close_time": "16:13:22",
-        "delivery_point": "PS1"
-    },
-    {
-        "open_time": "17:04:40",
-        "close_time": "19:27:16",
-        "delivery_point": "PC8"
-    },
-    {
-        "open_time": "8:26:15",
-        "close_time": "14:05:27",
-        "delivery_point": "NNN"
-    },
-    {
-        "open_time": "17:20:16",
-        "close_time": "15:00:59",
-        "delivery_point": "PN1"
-    },
-    {
-        "open_time": "17:04:01",
-        "close_time": "16:32:56",
-        "delivery_point": "PC1"
-    },
-    {
-        "open_time": "22:57:01",
-        "close_time": "13:43:32",
-        "delivery_point": "PS1"
-    },
-    {
-        "open_time": "17:13:31",
-        "close_time": "18:52:01",
-        "delivery_point": "PC8"
-    },
-    {
-        "open_time": "17:12:14",
-        "close_time": "14:57:48",
-        "delivery_point": "NNN"
-    },
-    {
-        "open_time": "13:42:28",
-        "close_time": "14:52:44",
-        "delivery_point": "PN1"
+        "open_time": "4:25:47",
+        "close_time": "12:13:14",
+        "delivery_point": "P05"
     }
 ]
