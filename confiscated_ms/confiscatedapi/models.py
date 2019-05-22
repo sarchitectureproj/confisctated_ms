@@ -1,7 +1,11 @@
 from django.db import models
 from django.utils import timezone
 import datetime
+from django.core.exceptions import ValidationError
 # Create your models here.
+
+
+
 
 class Item(models.Model):
     id = models.AutoField(primary_key=True)
@@ -56,5 +60,15 @@ class Delivery(models.Model):
         max_length=3,
         choices=DELIVERY_POINTS,
         default='P01')
+
+    def clean(self):
+        # Don't allow draft entries to have a pub_date.
+        if self.open_time >= self.close_time:
+            raise ValidationError('Open date must be lower than close time')
+
+    def save(self, *args, **kwargs):
+        self.full_clean()
+        return super(Delivery, self).save(*args, **kwargs)
+
     def __str__(self):
         return '%s: %s - %s' % (self.delivery_point, self.open_time, self.close_time)
