@@ -1,4 +1,5 @@
 Django==2.2.1
 djangorestframework==3.9.4
+django-filter
 mysqlclient
 requests
