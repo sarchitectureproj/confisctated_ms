@@ -17,7 +17,7 @@ class Item(models.Model):
         'Category',
         on_delete=models.PROTECT,
     )
-    passenger = models.IntegerField(blank=False)
+    passenger = models.CharField(blank=False,max_length=20)
     def __str__(self):
         return self.name
 
