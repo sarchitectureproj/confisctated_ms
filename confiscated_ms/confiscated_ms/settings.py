@@ -79,9 +79,9 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'confiscated_db',
-        'USER': 'cite',
-        'PASSWORD': 'citepp',
-        'HOST': 'confiscated-db',
+        'USER': 'edwin',
+        'PASSWORD': 'edwin',
+        'HOST': 'localhost',
         'PORT': '3306',
     }
 }
