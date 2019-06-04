@@ -1,31 +1,38 @@
 from django.db import models
+from rest_framework import serializers
 from django.utils import timezone
 import datetime
+from django.core.validators import MaxValueValidator, MinValueValidator 
 from django.core.exceptions import ValidationError
 # Create your models here.
 
-
+def validate_date(value):
+    if value > datetime.date.today() or value < datetime.date(2019, 1, 1):
+        raise ValidationError('Date must be between 01-01-2019 and today',
+            params={'value': value},
+        )
 
 
 class Item(models.Model):
-    id = models.AutoField(primary_key=True)
+    
     name = models.CharField(max_length=20)
-    confiscation_date = models.DateField(null=True)
-    confiscation_time = models.TimeField(null=True)
-    quantity = models.IntegerField(default=1)
+    confiscation_date = models.DateField(validators=[validate_date])
+    units = models.PositiveIntegerField(default=1, validators=[MinValueValidator(1), MaxValueValidator(100)])
     category = models.ForeignKey(
         'Category',
         on_delete=models.PROTECT,
     )
-    passenger = models.CharField(blank=False,max_length=20)
+    passenger = models.CharField(max_length=2)
     def __str__(self):
         return self.name
 
+    class Meta:
+        ordering = ('confiscation_date',)
+
 class Category(models.Model):
     
-    id = models.AutoField(primary_key=True)
     name = models.CharField(max_length=20,unique=True)
-    description = models.CharField(max_length=255,blank=True)
+    description = models.CharField(max_length=100)
     recoverable = models.BooleanField(default=True)
     delivery = models.ForeignKey(
         'Delivery',
@@ -40,31 +47,22 @@ class Category(models.Model):
     
     def __str__(self):
         return self.name
+        
+    class Meta:
+        ordering = ('name',)
     
     
 
 class Delivery(models.Model):
 
-    DELIVERY_POINTS = [
-        ('P01', 'Punto 01'),
-        ('P02', 'Punto 02'),
-        ('P03', 'Punto 03'),
-        ('P04', 'Punto 04'),
-        ('P05', 'Punto 05'),
-    ]
-
-    id = models.AutoField(primary_key=True)
-    open_time = models.TimeField(null=False)
-    close_time = models.TimeField(null=False)
+    open_time = models.TimeField()
+    close_time = models.TimeField()
     delivery_point = models.CharField(
-        max_length=3,
-        choices=DELIVERY_POINTS,
-        default='P01')
+        max_length=20)
 
     def clean(self):
-        # Don't allow draft entries to have a pub_date.
         if self.open_time >= self.close_time:
-            raise ValidationError('Open date must be lower than close time')
+            raise serializers.ValidationError("Open time must be lower than Close time")
 
     def save(self, *args, **kwargs):
         self.full_clean()

@@ -1,102 +1,5002 @@
 [
-    {
-        "open_time": "0:58:44",
-        "close_time": "23:06:02",
-        "delivery_point": "P05"
-    },
-    {
-        "open_time": "3:09:19",
-        "close_time": "13:59:19",
-        "delivery_point": "P05"
-    },
-    {
-        "open_time": "6:45:33",
-        "close_time": "15:44:11",
-        "delivery_point": "P01"
-    },
-    {
-        "open_time": "10:55:58",
-        "close_time": "22:02:36",
-        "delivery_point": "P05"
-    },
-    {
-        "open_time": "4:42:29",
-        "close_time": "19:55:03",
-        "delivery_point": "P01"
-    },
-    {
-        "open_time": "3:47:51",
-        "close_time": "15:09:12",
-        "delivery_point": "P05"
-    },
-    {
-        "open_time": "5:18:04",
-        "close_time": "15:57:47",
-        "delivery_point": "P04"
-    },
-    {
-        "open_time": "7:22:58",
-        "close_time": "21:01:59",
-        "delivery_point": "P03"
-    },
-    {
-        "open_time": "3:00:20",
-        "close_time": "13:05:57",
-        "delivery_point": "P01"
-    },
-    {
-        "open_time": "9:22:56",
-        "close_time": "12:40:01",
-        "delivery_point": "P02"
-    },
-    {
-        "open_time": "5:34:58",
-        "close_time": "19:56:12",
-        "delivery_point": "P05"
-    },
-    {
-        "open_time": "6:38:52",
-        "close_time": "15:52:00",
-        "delivery_point": "P05"
-    },
-    {
-        "open_time": "4:42:53",
-        "close_time": "23:00:52",
-        "delivery_point": "P03"
-    },
-    {
-        "open_time": "1:13:53",
-        "close_time": "23:50:07",
-        "delivery_point": "P02"
-    },
-    {
-        "open_time": "2:55:29",
-        "close_time": "20:27:32",
-        "delivery_point": "P02"
-    },
-    {
-        "open_time": "2:17:55",
-        "close_time": "20:41:54",
-        "delivery_point": "P05"
-    },
-    {
-        "open_time": "7:35:57",
-        "close_time": "22:40:42",
-        "delivery_point": "P05"
-    },
-    {
-        "open_time": "7:20:55",
-        "close_time": "23:41:19",
-        "delivery_point": "P05"
-    },
-    {
-        "open_time": "0:48:35",
-        "close_time": "21:22:55",
-        "delivery_point": "P02"
-    },
-    {
-        "open_time": "4:25:47",
-        "close_time": "12:13:14",
-        "delivery_point": "P05"
-    }
+  {
+    "open_time": "9:38:35",
+    "close_time": "13:23:25",
+    "delivery_point": "Pass"
+  },
+  {
+    "open_time": "9:31:11",
+    "close_time": "14:55:02",
+    "delivery_point": "Lane"
+  },
+  {
+    "open_time": "10:30:03",
+    "close_time": "14:55:20",
+    "delivery_point": "Pass"
+  },
+  {
+    "open_time": "11:51:31",
+    "close_time": "14:34:04",
+    "delivery_point": "Avenue"
+  },
+  {
+    "open_time": "8:31:39",
+    "close_time": "14:59:22",
+    "delivery_point": "Park"
+  },
+  {
+    "open_time": "7:55:10",
+    "close_time": "16:22:45",
+    "delivery_point": "Avenue"
+  },
+  {
+    "open_time": "8:12:12",
+    "close_time": "13:08:17",
+    "delivery_point": "Street"
+  },
+  {
+    "open_time": "9:07:05",
+    "close_time": "14:42:34",
+    "delivery_point": "Point"
+  },
+  {
+    "open_time": "8:23:50",
+    "close_time": "13:44:39",
+    "delivery_point": "Lane"
+  },
+  {
+    "open_time": "9:44:42",
+    "close_time": "14:21:25",
+    "delivery_point": "Pass"
+  },
+  {
+    "open_time": "8:33:11",
+    "close_time": "15:20:32",
+    "delivery_point": "Center"
+  },
+  {
+    "open_time": "10:25:29",
+    "close_time": "14:48:11",
+    "delivery_point": "Avenue"
+  },
+  {
+    "open_time": "7:47:27",
+    "close_time": "15:03:34",
+    "delivery_point": "Pass"
+  },
+  {
+    "open_time": "10:07:59",
+    "close_time": "14:51:44",
+    "delivery_point": "Hill"
+  },
+  {
+    "open_time": "9:38:01",
+    "close_time": "16:39:46",
+    "delivery_point": "Avenue"
+  },
+  {
+    "open_time": "9:59:09",
+    "close_time": "15:56:35",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "8:07:59",
+    "close_time": "16:51:41",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "9:30:44",
+    "close_time": "13:57:12",
+    "delivery_point": "Terrace"
+  },
+  {
+    "open_time": "8:39:40",
+    "close_time": "13:07:11",
+    "delivery_point": "Avenue"
+  },
+  {
+    "open_time": "8:21:12",
+    "close_time": "14:13:25",
+    "delivery_point": "Alley"
+  },
+  {
+    "open_time": "8:58:13",
+    "close_time": "15:26:01",
+    "delivery_point": "Center"
+  },
+  {
+    "open_time": "8:31:22",
+    "close_time": "14:20:23",
+    "delivery_point": "Junction"
+  },
+  {
+    "open_time": "7:53:03",
+    "close_time": "15:24:49",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "11:22:15",
+    "close_time": "14:10:25",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "11:53:59",
+    "close_time": "13:37:16",
+    "delivery_point": "Avenue"
+  },
+  {
+    "open_time": "7:01:45",
+    "close_time": "15:11:50",
+    "delivery_point": "Street"
+  },
+  {
+    "open_time": "10:36:13",
+    "close_time": "14:24:16",
+    "delivery_point": "Hill"
+  },
+  {
+    "open_time": "11:44:33",
+    "close_time": "14:20:40",
+    "delivery_point": "Road"
+  },
+  {
+    "open_time": "11:47:57",
+    "close_time": "15:28:57",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "7:53:38",
+    "close_time": "13:25:30",
+    "delivery_point": "Circle"
+  },
+  {
+    "open_time": "9:51:35",
+    "close_time": "16:45:29",
+    "delivery_point": "Junction"
+  },
+  {
+    "open_time": "7:47:13",
+    "close_time": "15:06:01",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "8:05:02",
+    "close_time": "15:16:09",
+    "delivery_point": "Circle"
+  },
+  {
+    "open_time": "8:22:29",
+    "close_time": "14:14:54",
+    "delivery_point": "Junction"
+  },
+  {
+    "open_time": "10:43:39",
+    "close_time": "15:37:05",
+    "delivery_point": "Place"
+  },
+  {
+    "open_time": "7:50:29",
+    "close_time": "14:45:36",
+    "delivery_point": "Center"
+  },
+  {
+    "open_time": "8:13:55",
+    "close_time": "13:56:27",
+    "delivery_point": "Lane"
+  },
+  {
+    "open_time": "8:56:07",
+    "close_time": "15:59:59",
+    "delivery_point": "Hill"
+  },
+  {
+    "open_time": "7:37:44",
+    "close_time": "14:56:04",
+    "delivery_point": "Pass"
+  },
+  {
+    "open_time": "8:22:11",
+    "close_time": "14:51:04",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "9:12:23",
+    "close_time": "14:37:57",
+    "delivery_point": "Hill"
+  },
+  {
+    "open_time": "11:56:53",
+    "close_time": "16:56:42",
+    "delivery_point": "Pass"
+  },
+  {
+    "open_time": "11:12:53",
+    "close_time": "15:38:12",
+    "delivery_point": "Plaza"
+  },
+  {
+    "open_time": "7:13:47",
+    "close_time": "16:52:59",
+    "delivery_point": "Junction"
+  },
+  {
+    "open_time": "9:40:45",
+    "close_time": "16:56:51",
+    "delivery_point": "Avenue"
+  },
+  {
+    "open_time": "10:41:44",
+    "close_time": "14:09:32",
+    "delivery_point": "Terrace"
+  },
+  {
+    "open_time": "9:38:29",
+    "close_time": "13:42:43",
+    "delivery_point": "Avenue"
+  },
+  {
+    "open_time": "7:13:08",
+    "close_time": "14:33:46",
+    "delivery_point": "Center"
+  },
+  {
+    "open_time": "9:17:24",
+    "close_time": "15:40:02",
+    "delivery_point": "Hill"
+  },
+  {
+    "open_time": "8:40:50",
+    "close_time": "14:02:11",
+    "delivery_point": "Place"
+  },
+  {
+    "open_time": "10:29:20",
+    "close_time": "16:43:58",
+    "delivery_point": "Alley"
+  },
+  {
+    "open_time": "11:42:25",
+    "close_time": "16:42:07",
+    "delivery_point": "Place"
+  },
+  {
+    "open_time": "8:46:27",
+    "close_time": "15:36:38",
+    "delivery_point": "Drive"
+  },
+  {
+    "open_time": "9:24:45",
+    "close_time": "16:21:49",
+    "delivery_point": "Point"
+  },
+  {
+    "open_time": "9:49:46",
+    "close_time": "15:36:51",
+    "delivery_point": "Parkway"
+  },
+  {
+    "open_time": "11:26:27",
+    "close_time": "15:23:55",
+    "delivery_point": "Alley"
+  },
+  {
+    "open_time": "8:12:45",
+    "close_time": "16:05:01",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "7:51:23",
+    "close_time": "13:26:49",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "11:36:14",
+    "close_time": "14:48:46",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "11:39:00",
+    "close_time": "14:13:56",
+    "delivery_point": "Parkway"
+  },
+  {
+    "open_time": "10:12:52",
+    "close_time": "15:00:51",
+    "delivery_point": "Pass"
+  },
+  {
+    "open_time": "9:26:16",
+    "close_time": "15:12:35",
+    "delivery_point": "Drive"
+  },
+  {
+    "open_time": "8:16:32",
+    "close_time": "14:11:13",
+    "delivery_point": "Street"
+  },
+  {
+    "open_time": "11:37:44",
+    "close_time": "16:27:40",
+    "delivery_point": "Parkway"
+  },
+  {
+    "open_time": "10:31:48",
+    "close_time": "13:27:43",
+    "delivery_point": "Junction"
+  },
+  {
+    "open_time": "8:02:41",
+    "close_time": "16:10:17",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "9:57:47",
+    "close_time": "15:04:00",
+    "delivery_point": "Way"
+  },
+  {
+    "open_time": "10:29:02",
+    "close_time": "15:19:19",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "11:39:35",
+    "close_time": "16:19:09",
+    "delivery_point": "Terrace"
+  },
+  {
+    "open_time": "9:58:45",
+    "close_time": "13:09:12",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "8:03:30",
+    "close_time": "15:04:31",
+    "delivery_point": "Alley"
+  },
+  {
+    "open_time": "10:42:29",
+    "close_time": "14:54:47",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "9:30:23",
+    "close_time": "16:18:46",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "7:42:01",
+    "close_time": "15:26:10",
+    "delivery_point": "Park"
+  },
+  {
+    "open_time": "11:14:37",
+    "close_time": "15:58:47",
+    "delivery_point": "Park"
+  },
+  {
+    "open_time": "7:19:40",
+    "close_time": "15:34:45",
+    "delivery_point": "Circle"
+  },
+  {
+    "open_time": "11:52:57",
+    "close_time": "15:28:16",
+    "delivery_point": "Point"
+  },
+  {
+    "open_time": "10:34:01",
+    "close_time": "15:20:07",
+    "delivery_point": "Road"
+  },
+  {
+    "open_time": "10:05:56",
+    "close_time": "16:29:31",
+    "delivery_point": "Road"
+  },
+  {
+    "open_time": "10:20:46",
+    "close_time": "13:46:36",
+    "delivery_point": "Circle"
+  },
+  {
+    "open_time": "10:19:31",
+    "close_time": "15:31:55",
+    "delivery_point": "Way"
+  },
+  {
+    "open_time": "9:04:00",
+    "close_time": "13:44:25",
+    "delivery_point": "Pass"
+  },
+  {
+    "open_time": "8:08:27",
+    "close_time": "13:49:45",
+    "delivery_point": "Alley"
+  },
+  {
+    "open_time": "11:38:06",
+    "close_time": "14:58:38",
+    "delivery_point": "Pass"
+  },
+  {
+    "open_time": "9:34:34",
+    "close_time": "16:11:33",
+    "delivery_point": "Alley"
+  },
+  {
+    "open_time": "9:04:43",
+    "close_time": "16:06:09",
+    "delivery_point": "Plaza"
+  },
+  {
+    "open_time": "7:18:35",
+    "close_time": "15:17:35",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "10:24:27",
+    "close_time": "15:36:37",
+    "delivery_point": "Point"
+  },
+  {
+    "open_time": "8:17:48",
+    "close_time": "13:00:44",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "9:50:51",
+    "close_time": "15:32:04",
+    "delivery_point": "Place"
+  },
+  {
+    "open_time": "7:57:05",
+    "close_time": "15:52:48",
+    "delivery_point": "Point"
+  },
+  {
+    "open_time": "8:35:57",
+    "close_time": "16:39:48",
+    "delivery_point": "Hill"
+  },
+  {
+    "open_time": "11:52:25",
+    "close_time": "14:25:56",
+    "delivery_point": "Parkway"
+  },
+  {
+    "open_time": "10:00:26",
+    "close_time": "16:22:58",
+    "delivery_point": "Street"
+  },
+  {
+    "open_time": "7:43:11",
+    "close_time": "15:12:35",
+    "delivery_point": "Circle"
+  },
+  {
+    "open_time": "9:03:28",
+    "close_time": "14:12:50",
+    "delivery_point": "Hill"
+  },
+  {
+    "open_time": "8:16:51",
+    "close_time": "14:01:52",
+    "delivery_point": "Pass"
+  },
+  {
+    "open_time": "8:15:52",
+    "close_time": "16:20:47",
+    "delivery_point": "Circle"
+  },
+  {
+    "open_time": "11:13:23",
+    "close_time": "13:20:12",
+    "delivery_point": "Lane"
+  },
+  {
+    "open_time": "10:27:08",
+    "close_time": "16:02:34",
+    "delivery_point": "Pass"
+  },
+  {
+    "open_time": "9:08:58",
+    "close_time": "14:11:40",
+    "delivery_point": "Parkway"
+  },
+  {
+    "open_time": "11:02:29",
+    "close_time": "14:47:36",
+    "delivery_point": "Street"
+  },
+  {
+    "open_time": "10:06:38",
+    "close_time": "16:00:42",
+    "delivery_point": "Road"
+  },
+  {
+    "open_time": "10:00:27",
+    "close_time": "16:04:32",
+    "delivery_point": "Plaza"
+  },
+  {
+    "open_time": "8:47:24",
+    "close_time": "16:46:26",
+    "delivery_point": "Way"
+  },
+  {
+    "open_time": "9:52:34",
+    "close_time": "13:55:29",
+    "delivery_point": "Hill"
+  },
+  {
+    "open_time": "9:27:47",
+    "close_time": "15:24:32",
+    "delivery_point": "Center"
+  },
+  {
+    "open_time": "7:40:57",
+    "close_time": "14:26:15",
+    "delivery_point": "Park"
+  },
+  {
+    "open_time": "8:44:32",
+    "close_time": "13:36:48",
+    "delivery_point": "Park"
+  },
+  {
+    "open_time": "8:29:48",
+    "close_time": "14:51:42",
+    "delivery_point": "Hill"
+  },
+  {
+    "open_time": "9:23:56",
+    "close_time": "14:51:44",
+    "delivery_point": "Drive"
+  },
+  {
+    "open_time": "9:57:56",
+    "close_time": "15:11:39",
+    "delivery_point": "Way"
+  },
+  {
+    "open_time": "10:07:42",
+    "close_time": "14:13:10",
+    "delivery_point": "Place"
+  },
+  {
+    "open_time": "10:37:37",
+    "close_time": "13:55:47",
+    "delivery_point": "Park"
+  },
+  {
+    "open_time": "8:27:47",
+    "close_time": "14:22:41",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "9:01:57",
+    "close_time": "13:57:35",
+    "delivery_point": "Way"
+  },
+  {
+    "open_time": "11:50:56",
+    "close_time": "15:47:02",
+    "delivery_point": "Pass"
+  },
+  {
+    "open_time": "8:44:37",
+    "close_time": "15:01:51",
+    "delivery_point": "Road"
+  },
+  {
+    "open_time": "10:05:21",
+    "close_time": "16:25:27",
+    "delivery_point": "Hill"
+  },
+  {
+    "open_time": "9:55:49",
+    "close_time": "13:38:42",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "7:52:15",
+    "close_time": "16:52:29",
+    "delivery_point": "Pass"
+  },
+  {
+    "open_time": "10:22:22",
+    "close_time": "13:41:02",
+    "delivery_point": "Pass"
+  },
+  {
+    "open_time": "8:08:10",
+    "close_time": "16:31:20",
+    "delivery_point": "Hill"
+  },
+  {
+    "open_time": "10:27:25",
+    "close_time": "14:35:11",
+    "delivery_point": "Hill"
+  },
+  {
+    "open_time": "7:01:14",
+    "close_time": "15:49:50",
+    "delivery_point": "Junction"
+  },
+  {
+    "open_time": "7:56:37",
+    "close_time": "14:18:25",
+    "delivery_point": "Lane"
+  },
+  {
+    "open_time": "8:35:43",
+    "close_time": "13:13:44",
+    "delivery_point": "Junction"
+  },
+  {
+    "open_time": "7:51:56",
+    "close_time": "14:27:33",
+    "delivery_point": "Point"
+  },
+  {
+    "open_time": "10:43:57",
+    "close_time": "14:46:15",
+    "delivery_point": "Hill"
+  },
+  {
+    "open_time": "9:01:26",
+    "close_time": "16:10:59",
+    "delivery_point": "Avenue"
+  },
+  {
+    "open_time": "8:54:26",
+    "close_time": "15:29:17",
+    "delivery_point": "Street"
+  },
+  {
+    "open_time": "8:29:37",
+    "close_time": "16:16:02",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "9:16:01",
+    "close_time": "14:08:52",
+    "delivery_point": "Park"
+  },
+  {
+    "open_time": "11:57:37",
+    "close_time": "15:10:28",
+    "delivery_point": "Avenue"
+  },
+  {
+    "open_time": "11:40:46",
+    "close_time": "16:05:31",
+    "delivery_point": "Junction"
+  },
+  {
+    "open_time": "11:16:55",
+    "close_time": "16:01:52",
+    "delivery_point": "Hill"
+  },
+  {
+    "open_time": "8:43:04",
+    "close_time": "14:55:41",
+    "delivery_point": "Lane"
+  },
+  {
+    "open_time": "10:20:04",
+    "close_time": "14:35:45",
+    "delivery_point": "Pass"
+  },
+  {
+    "open_time": "11:39:17",
+    "close_time": "16:49:44",
+    "delivery_point": "Center"
+  },
+  {
+    "open_time": "9:54:49",
+    "close_time": "13:01:13",
+    "delivery_point": "Parkway"
+  },
+  {
+    "open_time": "10:42:05",
+    "close_time": "15:30:53",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "11:56:53",
+    "close_time": "15:34:35",
+    "delivery_point": "Parkway"
+  },
+  {
+    "open_time": "11:06:29",
+    "close_time": "15:24:41",
+    "delivery_point": "Road"
+  },
+  {
+    "open_time": "7:30:21",
+    "close_time": "13:26:35",
+    "delivery_point": "Place"
+  },
+  {
+    "open_time": "10:52:32",
+    "close_time": "13:54:57",
+    "delivery_point": "Hill"
+  },
+  {
+    "open_time": "10:05:42",
+    "close_time": "16:44:07",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "7:37:49",
+    "close_time": "14:37:02",
+    "delivery_point": "Plaza"
+  },
+  {
+    "open_time": "10:16:02",
+    "close_time": "14:10:58",
+    "delivery_point": "Plaza"
+  },
+  {
+    "open_time": "8:04:39",
+    "close_time": "13:30:41",
+    "delivery_point": "Road"
+  },
+  {
+    "open_time": "9:02:50",
+    "close_time": "16:38:25",
+    "delivery_point": "Street"
+  },
+  {
+    "open_time": "11:53:52",
+    "close_time": "13:51:14",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "10:44:55",
+    "close_time": "14:03:01",
+    "delivery_point": "Circle"
+  },
+  {
+    "open_time": "11:45:29",
+    "close_time": "14:07:38",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "10:02:05",
+    "close_time": "13:18:37",
+    "delivery_point": "Place"
+  },
+  {
+    "open_time": "8:55:31",
+    "close_time": "15:43:48",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "9:46:20",
+    "close_time": "16:08:11",
+    "delivery_point": "Junction"
+  },
+  {
+    "open_time": "10:39:04",
+    "close_time": "14:50:31",
+    "delivery_point": "Parkway"
+  },
+  {
+    "open_time": "9:19:06",
+    "close_time": "14:39:52",
+    "delivery_point": "Pass"
+  },
+  {
+    "open_time": "11:25:28",
+    "close_time": "14:38:22",
+    "delivery_point": "Terrace"
+  },
+  {
+    "open_time": "7:34:52",
+    "close_time": "14:29:42",
+    "delivery_point": "Lane"
+  },
+  {
+    "open_time": "11:18:45",
+    "close_time": "14:24:24",
+    "delivery_point": "Parkway"
+  },
+  {
+    "open_time": "11:18:28",
+    "close_time": "16:17:05",
+    "delivery_point": "Junction"
+  },
+  {
+    "open_time": "11:48:39",
+    "close_time": "16:04:45",
+    "delivery_point": "Plaza"
+  },
+  {
+    "open_time": "7:15:13",
+    "close_time": "15:01:48",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "7:04:14",
+    "close_time": "16:41:17",
+    "delivery_point": "Drive"
+  },
+  {
+    "open_time": "10:50:20",
+    "close_time": "14:34:50",
+    "delivery_point": "Lane"
+  },
+  {
+    "open_time": "7:54:32",
+    "close_time": "13:52:36",
+    "delivery_point": "Drive"
+  },
+  {
+    "open_time": "8:23:07",
+    "close_time": "13:38:51",
+    "delivery_point": "Terrace"
+  },
+  {
+    "open_time": "8:19:00",
+    "close_time": "16:41:38",
+    "delivery_point": "Junction"
+  },
+  {
+    "open_time": "10:15:19",
+    "close_time": "16:40:21",
+    "delivery_point": "Junction"
+  },
+  {
+    "open_time": "8:07:48",
+    "close_time": "13:58:51",
+    "delivery_point": "Plaza"
+  },
+  {
+    "open_time": "11:45:33",
+    "close_time": "16:27:58",
+    "delivery_point": "Point"
+  },
+  {
+    "open_time": "10:30:36",
+    "close_time": "13:41:30",
+    "delivery_point": "Hill"
+  },
+  {
+    "open_time": "8:03:27",
+    "close_time": "15:34:34",
+    "delivery_point": "Circle"
+  },
+  {
+    "open_time": "11:02:24",
+    "close_time": "15:56:04",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "9:34:56",
+    "close_time": "13:16:41",
+    "delivery_point": "Street"
+  },
+  {
+    "open_time": "10:16:58",
+    "close_time": "16:13:01",
+    "delivery_point": "Parkway"
+  },
+  {
+    "open_time": "11:56:34",
+    "close_time": "13:44:09",
+    "delivery_point": "Parkway"
+  },
+  {
+    "open_time": "11:17:21",
+    "close_time": "15:08:16",
+    "delivery_point": "Way"
+  },
+  {
+    "open_time": "7:35:46",
+    "close_time": "13:56:41",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "11:21:30",
+    "close_time": "13:03:46",
+    "delivery_point": "Street"
+  },
+  {
+    "open_time": "7:50:06",
+    "close_time": "15:40:34",
+    "delivery_point": "Way"
+  },
+  {
+    "open_time": "11:21:46",
+    "close_time": "15:14:38",
+    "delivery_point": "Park"
+  },
+  {
+    "open_time": "8:13:02",
+    "close_time": "16:54:06",
+    "delivery_point": "Junction"
+  },
+  {
+    "open_time": "11:32:19",
+    "close_time": "15:35:30",
+    "delivery_point": "Street"
+  },
+  {
+    "open_time": "9:59:31",
+    "close_time": "15:07:08",
+    "delivery_point": "Plaza"
+  },
+  {
+    "open_time": "8:15:29",
+    "close_time": "16:08:31",
+    "delivery_point": "Drive"
+  },
+  {
+    "open_time": "7:03:15",
+    "close_time": "13:10:46",
+    "delivery_point": "Hill"
+  },
+  {
+    "open_time": "10:41:15",
+    "close_time": "16:09:33",
+    "delivery_point": "Lane"
+  },
+  {
+    "open_time": "10:15:14",
+    "close_time": "16:30:44",
+    "delivery_point": "Center"
+  },
+  {
+    "open_time": "11:56:00",
+    "close_time": "15:40:00",
+    "delivery_point": "Terrace"
+  },
+  {
+    "open_time": "10:23:52",
+    "close_time": "13:25:18",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "11:39:04",
+    "close_time": "16:32:30",
+    "delivery_point": "Junction"
+  },
+  {
+    "open_time": "8:36:27",
+    "close_time": "14:48:56",
+    "delivery_point": "Avenue"
+  },
+  {
+    "open_time": "10:25:45",
+    "close_time": "13:01:33",
+    "delivery_point": "Junction"
+  },
+  {
+    "open_time": "11:34:41",
+    "close_time": "15:24:05",
+    "delivery_point": "Plaza"
+  },
+  {
+    "open_time": "10:56:37",
+    "close_time": "14:25:37",
+    "delivery_point": "Road"
+  },
+  {
+    "open_time": "8:58:35",
+    "close_time": "15:37:02",
+    "delivery_point": "Avenue"
+  },
+  {
+    "open_time": "8:29:31",
+    "close_time": "16:44:15",
+    "delivery_point": "Street"
+  },
+  {
+    "open_time": "9:31:04",
+    "close_time": "13:29:10",
+    "delivery_point": "Place"
+  },
+  {
+    "open_time": "10:02:14",
+    "close_time": "14:57:10",
+    "delivery_point": "Center"
+  },
+  {
+    "open_time": "8:28:26",
+    "close_time": "14:46:16",
+    "delivery_point": "Junction"
+  },
+  {
+    "open_time": "7:04:28",
+    "close_time": "16:02:22",
+    "delivery_point": "Drive"
+  },
+  {
+    "open_time": "8:23:00",
+    "close_time": "13:37:29",
+    "delivery_point": "Terrace"
+  },
+  {
+    "open_time": "7:50:29",
+    "close_time": "13:46:05",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "9:00:52",
+    "close_time": "14:28:59",
+    "delivery_point": "Road"
+  },
+  {
+    "open_time": "10:05:32",
+    "close_time": "14:45:33",
+    "delivery_point": "Place"
+  },
+  {
+    "open_time": "7:38:20",
+    "close_time": "14:34:24",
+    "delivery_point": "Park"
+  },
+  {
+    "open_time": "9:58:21",
+    "close_time": "13:30:44",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "8:08:13",
+    "close_time": "16:23:46",
+    "delivery_point": "Plaza"
+  },
+  {
+    "open_time": "10:02:50",
+    "close_time": "13:39:45",
+    "delivery_point": "Street"
+  },
+  {
+    "open_time": "7:30:41",
+    "close_time": "14:09:12",
+    "delivery_point": "Street"
+  },
+  {
+    "open_time": "7:30:22",
+    "close_time": "15:39:26",
+    "delivery_point": "Terrace"
+  },
+  {
+    "open_time": "10:12:10",
+    "close_time": "14:33:11",
+    "delivery_point": "Lane"
+  },
+  {
+    "open_time": "9:47:11",
+    "close_time": "13:30:36",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "10:39:36",
+    "close_time": "13:11:06",
+    "delivery_point": "Point"
+  },
+  {
+    "open_time": "9:16:52",
+    "close_time": "14:07:17",
+    "delivery_point": "Alley"
+  },
+  {
+    "open_time": "11:37:13",
+    "close_time": "16:11:33",
+    "delivery_point": "Avenue"
+  },
+  {
+    "open_time": "10:07:33",
+    "close_time": "15:45:02",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "9:12:08",
+    "close_time": "15:41:18",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "11:06:48",
+    "close_time": "14:04:16",
+    "delivery_point": "Plaza"
+  },
+  {
+    "open_time": "11:25:25",
+    "close_time": "15:25:41",
+    "delivery_point": "Lane"
+  },
+  {
+    "open_time": "8:47:16",
+    "close_time": "14:41:37",
+    "delivery_point": "Drive"
+  },
+  {
+    "open_time": "10:55:11",
+    "close_time": "15:41:11",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "10:33:15",
+    "close_time": "16:22:06",
+    "delivery_point": "Place"
+  },
+  {
+    "open_time": "7:19:07",
+    "close_time": "15:13:43",
+    "delivery_point": "Point"
+  },
+  {
+    "open_time": "9:19:28",
+    "close_time": "15:02:16",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "8:54:47",
+    "close_time": "15:34:12",
+    "delivery_point": "Alley"
+  },
+  {
+    "open_time": "11:18:23",
+    "close_time": "16:38:27",
+    "delivery_point": "Terrace"
+  },
+  {
+    "open_time": "9:37:38",
+    "close_time": "13:54:00",
+    "delivery_point": "Way"
+  },
+  {
+    "open_time": "9:00:20",
+    "close_time": "15:10:37",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "7:14:10",
+    "close_time": "16:51:04",
+    "delivery_point": "Park"
+  },
+  {
+    "open_time": "11:30:58",
+    "close_time": "15:55:36",
+    "delivery_point": "Road"
+  },
+  {
+    "open_time": "7:18:36",
+    "close_time": "16:10:42",
+    "delivery_point": "Hill"
+  },
+  {
+    "open_time": "9:55:38",
+    "close_time": "15:27:14",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "9:58:14",
+    "close_time": "16:31:52",
+    "delivery_point": "Pass"
+  },
+  {
+    "open_time": "10:28:25",
+    "close_time": "16:10:43",
+    "delivery_point": "Terrace"
+  },
+  {
+    "open_time": "11:39:31",
+    "close_time": "16:24:38",
+    "delivery_point": "Terrace"
+  },
+  {
+    "open_time": "7:54:06",
+    "close_time": "13:02:54",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "8:20:41",
+    "close_time": "15:41:13",
+    "delivery_point": "Pass"
+  },
+  {
+    "open_time": "10:18:33",
+    "close_time": "14:29:53",
+    "delivery_point": "Junction"
+  },
+  {
+    "open_time": "10:29:56",
+    "close_time": "15:07:06",
+    "delivery_point": "Point"
+  },
+  {
+    "open_time": "9:40:16",
+    "close_time": "14:29:30",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "8:12:46",
+    "close_time": "15:31:17",
+    "delivery_point": "Pass"
+  },
+  {
+    "open_time": "9:03:14",
+    "close_time": "15:24:27",
+    "delivery_point": "Alley"
+  },
+  {
+    "open_time": "11:20:13",
+    "close_time": "13:28:59",
+    "delivery_point": "Avenue"
+  },
+  {
+    "open_time": "9:00:31",
+    "close_time": "13:52:29",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "11:05:52",
+    "close_time": "14:31:39",
+    "delivery_point": "Drive"
+  },
+  {
+    "open_time": "11:12:42",
+    "close_time": "14:30:36",
+    "delivery_point": "Street"
+  },
+  {
+    "open_time": "8:53:20",
+    "close_time": "15:20:12",
+    "delivery_point": "Alley"
+  },
+  {
+    "open_time": "11:31:27",
+    "close_time": "16:25:54",
+    "delivery_point": "Point"
+  },
+  {
+    "open_time": "11:05:53",
+    "close_time": "14:03:21",
+    "delivery_point": "Terrace"
+  },
+  {
+    "open_time": "11:21:22",
+    "close_time": "16:17:56",
+    "delivery_point": "Terrace"
+  },
+  {
+    "open_time": "8:08:39",
+    "close_time": "14:17:09",
+    "delivery_point": "Drive"
+  },
+  {
+    "open_time": "10:13:43",
+    "close_time": "15:39:27",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "8:24:20",
+    "close_time": "16:33:55",
+    "delivery_point": "Pass"
+  },
+  {
+    "open_time": "11:47:29",
+    "close_time": "14:07:09",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "8:37:36",
+    "close_time": "16:16:02",
+    "delivery_point": "Center"
+  },
+  {
+    "open_time": "7:35:26",
+    "close_time": "16:23:43",
+    "delivery_point": "Lane"
+  },
+  {
+    "open_time": "7:35:23",
+    "close_time": "13:51:55",
+    "delivery_point": "Junction"
+  },
+  {
+    "open_time": "11:48:31",
+    "close_time": "16:00:40",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "7:17:18",
+    "close_time": "13:59:50",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "8:14:10",
+    "close_time": "15:57:34",
+    "delivery_point": "Center"
+  },
+  {
+    "open_time": "9:17:32",
+    "close_time": "13:42:59",
+    "delivery_point": "Avenue"
+  },
+  {
+    "open_time": "8:09:33",
+    "close_time": "13:48:27",
+    "delivery_point": "Alley"
+  },
+  {
+    "open_time": "9:59:28",
+    "close_time": "14:11:20",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "10:19:24",
+    "close_time": "14:07:55",
+    "delivery_point": "Circle"
+  },
+  {
+    "open_time": "11:10:09",
+    "close_time": "13:02:32",
+    "delivery_point": "Junction"
+  },
+  {
+    "open_time": "11:45:32",
+    "close_time": "16:16:57",
+    "delivery_point": "Alley"
+  },
+  {
+    "open_time": "9:57:30",
+    "close_time": "13:42:51",
+    "delivery_point": "Pass"
+  },
+  {
+    "open_time": "7:15:13",
+    "close_time": "14:44:18",
+    "delivery_point": "Parkway"
+  },
+  {
+    "open_time": "8:00:27",
+    "close_time": "16:04:43",
+    "delivery_point": "Point"
+  },
+  {
+    "open_time": "8:14:15",
+    "close_time": "15:12:03",
+    "delivery_point": "Lane"
+  },
+  {
+    "open_time": "9:51:02",
+    "close_time": "15:20:12",
+    "delivery_point": "Lane"
+  },
+  {
+    "open_time": "10:32:20",
+    "close_time": "16:14:39",
+    "delivery_point": "Junction"
+  },
+  {
+    "open_time": "10:08:18",
+    "close_time": "16:43:07",
+    "delivery_point": "Terrace"
+  },
+  {
+    "open_time": "7:15:47",
+    "close_time": "16:17:45",
+    "delivery_point": "Lane"
+  },
+  {
+    "open_time": "9:09:50",
+    "close_time": "14:21:18",
+    "delivery_point": "Road"
+  },
+  {
+    "open_time": "7:24:10",
+    "close_time": "15:11:36",
+    "delivery_point": "Center"
+  },
+  {
+    "open_time": "8:25:32",
+    "close_time": "13:39:18",
+    "delivery_point": "Point"
+  },
+  {
+    "open_time": "8:10:49",
+    "close_time": "13:49:34",
+    "delivery_point": "Place"
+  },
+  {
+    "open_time": "11:08:40",
+    "close_time": "14:13:42",
+    "delivery_point": "Street"
+  },
+  {
+    "open_time": "11:44:07",
+    "close_time": "14:55:20",
+    "delivery_point": "Point"
+  },
+  {
+    "open_time": "9:30:54",
+    "close_time": "15:11:34",
+    "delivery_point": "Alley"
+  },
+  {
+    "open_time": "7:37:21",
+    "close_time": "14:14:27",
+    "delivery_point": "Road"
+  },
+  {
+    "open_time": "7:11:46",
+    "close_time": "16:56:09",
+    "delivery_point": "Pass"
+  },
+  {
+    "open_time": "11:51:28",
+    "close_time": "13:02:35",
+    "delivery_point": "Avenue"
+  },
+  {
+    "open_time": "7:23:40",
+    "close_time": "13:13:12",
+    "delivery_point": "Point"
+  },
+  {
+    "open_time": "11:33:12",
+    "close_time": "16:35:11",
+    "delivery_point": "Street"
+  },
+  {
+    "open_time": "7:29:18",
+    "close_time": "15:16:25",
+    "delivery_point": "Lane"
+  },
+  {
+    "open_time": "9:45:18",
+    "close_time": "15:59:27",
+    "delivery_point": "Terrace"
+  },
+  {
+    "open_time": "11:39:01",
+    "close_time": "14:15:51",
+    "delivery_point": "Junction"
+  },
+  {
+    "open_time": "9:56:53",
+    "close_time": "13:32:58",
+    "delivery_point": "Park"
+  },
+  {
+    "open_time": "7:25:52",
+    "close_time": "14:37:28",
+    "delivery_point": "Hill"
+  },
+  {
+    "open_time": "7:42:44",
+    "close_time": "14:23:40",
+    "delivery_point": "Circle"
+  },
+  {
+    "open_time": "10:38:21",
+    "close_time": "16:53:12",
+    "delivery_point": "Pass"
+  },
+  {
+    "open_time": "11:11:08",
+    "close_time": "16:42:21",
+    "delivery_point": "Alley"
+  },
+  {
+    "open_time": "8:55:43",
+    "close_time": "13:10:47",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "11:34:42",
+    "close_time": "14:13:50",
+    "delivery_point": "Junction"
+  },
+  {
+    "open_time": "7:50:14",
+    "close_time": "15:49:05",
+    "delivery_point": "Drive"
+  },
+  {
+    "open_time": "8:49:41",
+    "close_time": "16:36:47",
+    "delivery_point": "Alley"
+  },
+  {
+    "open_time": "9:24:24",
+    "close_time": "13:30:02",
+    "delivery_point": "Park"
+  },
+  {
+    "open_time": "11:39:58",
+    "close_time": "16:16:04",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "11:26:21",
+    "close_time": "13:32:59",
+    "delivery_point": "Center"
+  },
+  {
+    "open_time": "11:38:39",
+    "close_time": "14:18:52",
+    "delivery_point": "Lane"
+  },
+  {
+    "open_time": "7:26:25",
+    "close_time": "14:58:58",
+    "delivery_point": "Drive"
+  },
+  {
+    "open_time": "7:27:54",
+    "close_time": "14:59:26",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "8:36:22",
+    "close_time": "16:43:25",
+    "delivery_point": "Place"
+  },
+  {
+    "open_time": "7:20:01",
+    "close_time": "14:47:53",
+    "delivery_point": "Circle"
+  },
+  {
+    "open_time": "8:29:18",
+    "close_time": "14:01:52",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "8:48:14",
+    "close_time": "14:52:53",
+    "delivery_point": "Road"
+  },
+  {
+    "open_time": "11:04:36",
+    "close_time": "15:57:52",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "11:13:06",
+    "close_time": "15:40:08",
+    "delivery_point": "Avenue"
+  },
+  {
+    "open_time": "9:02:49",
+    "close_time": "15:46:26",
+    "delivery_point": "Road"
+  },
+  {
+    "open_time": "9:58:46",
+    "close_time": "13:51:58",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "11:57:38",
+    "close_time": "15:39:23",
+    "delivery_point": "Parkway"
+  },
+  {
+    "open_time": "9:28:14",
+    "close_time": "15:39:19",
+    "delivery_point": "Hill"
+  },
+  {
+    "open_time": "7:37:52",
+    "close_time": "15:26:34",
+    "delivery_point": "Park"
+  },
+  {
+    "open_time": "11:12:39",
+    "close_time": "16:59:39",
+    "delivery_point": "Hill"
+  },
+  {
+    "open_time": "7:51:46",
+    "close_time": "15:48:23",
+    "delivery_point": "Avenue"
+  },
+  {
+    "open_time": "10:05:01",
+    "close_time": "16:50:27",
+    "delivery_point": "Parkway"
+  },
+  {
+    "open_time": "8:43:13",
+    "close_time": "13:27:42",
+    "delivery_point": "Street"
+  },
+  {
+    "open_time": "7:59:48",
+    "close_time": "14:36:26",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "11:35:52",
+    "close_time": "13:28:13",
+    "delivery_point": "Avenue"
+  },
+  {
+    "open_time": "8:02:57",
+    "close_time": "14:31:57",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "11:59:33",
+    "close_time": "13:16:36",
+    "delivery_point": "Lane"
+  },
+  {
+    "open_time": "11:27:16",
+    "close_time": "14:21:32",
+    "delivery_point": "Terrace"
+  },
+  {
+    "open_time": "10:52:17",
+    "close_time": "15:00:43",
+    "delivery_point": "Parkway"
+  },
+  {
+    "open_time": "8:17:05",
+    "close_time": "14:14:30",
+    "delivery_point": "Street"
+  },
+  {
+    "open_time": "10:37:09",
+    "close_time": "14:16:26",
+    "delivery_point": "Center"
+  },
+  {
+    "open_time": "10:26:36",
+    "close_time": "15:17:59",
+    "delivery_point": "Pass"
+  },
+  {
+    "open_time": "11:20:24",
+    "close_time": "15:34:19",
+    "delivery_point": "Plaza"
+  },
+  {
+    "open_time": "9:58:56",
+    "close_time": "14:49:42",
+    "delivery_point": "Pass"
+  },
+  {
+    "open_time": "9:44:35",
+    "close_time": "13:18:16",
+    "delivery_point": "Place"
+  },
+  {
+    "open_time": "9:19:20",
+    "close_time": "13:30:31",
+    "delivery_point": "Point"
+  },
+  {
+    "open_time": "8:04:27",
+    "close_time": "15:02:05",
+    "delivery_point": "Park"
+  },
+  {
+    "open_time": "10:57:46",
+    "close_time": "16:34:13",
+    "delivery_point": "Terrace"
+  },
+  {
+    "open_time": "8:15:28",
+    "close_time": "13:57:12",
+    "delivery_point": "Alley"
+  },
+  {
+    "open_time": "7:27:14",
+    "close_time": "16:12:29",
+    "delivery_point": "Way"
+  },
+  {
+    "open_time": "10:36:36",
+    "close_time": "13:52:27",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "7:33:58",
+    "close_time": "15:58:08",
+    "delivery_point": "Drive"
+  },
+  {
+    "open_time": "9:27:15",
+    "close_time": "15:53:35",
+    "delivery_point": "Avenue"
+  },
+  {
+    "open_time": "11:17:32",
+    "close_time": "16:40:37",
+    "delivery_point": "Center"
+  },
+  {
+    "open_time": "10:01:58",
+    "close_time": "16:52:51",
+    "delivery_point": "Place"
+  },
+  {
+    "open_time": "9:04:25",
+    "close_time": "16:29:22",
+    "delivery_point": "Place"
+  },
+  {
+    "open_time": "11:33:51",
+    "close_time": "15:27:06",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "9:48:36",
+    "close_time": "14:09:05",
+    "delivery_point": "Alley"
+  },
+  {
+    "open_time": "7:09:24",
+    "close_time": "13:45:44",
+    "delivery_point": "Road"
+  },
+  {
+    "open_time": "8:50:31",
+    "close_time": "16:42:30",
+    "delivery_point": "Center"
+  },
+  {
+    "open_time": "9:21:09",
+    "close_time": "14:47:50",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "7:36:59",
+    "close_time": "15:53:18",
+    "delivery_point": "Road"
+  },
+  {
+    "open_time": "11:23:32",
+    "close_time": "15:28:56",
+    "delivery_point": "Place"
+  },
+  {
+    "open_time": "11:04:37",
+    "close_time": "13:42:20",
+    "delivery_point": "Junction"
+  },
+  {
+    "open_time": "10:37:03",
+    "close_time": "15:20:31",
+    "delivery_point": "Parkway"
+  },
+  {
+    "open_time": "8:31:31",
+    "close_time": "16:11:38",
+    "delivery_point": "Avenue"
+  },
+  {
+    "open_time": "9:06:32",
+    "close_time": "15:22:28",
+    "delivery_point": "Circle"
+  },
+  {
+    "open_time": "11:01:56",
+    "close_time": "14:04:21",
+    "delivery_point": "Road"
+  },
+  {
+    "open_time": "7:19:10",
+    "close_time": "13:27:18",
+    "delivery_point": "Street"
+  },
+  {
+    "open_time": "7:08:06",
+    "close_time": "13:30:44",
+    "delivery_point": "Point"
+  },
+  {
+    "open_time": "11:00:02",
+    "close_time": "14:48:22",
+    "delivery_point": "Alley"
+  },
+  {
+    "open_time": "11:06:54",
+    "close_time": "13:28:43",
+    "delivery_point": "Center"
+  },
+  {
+    "open_time": "8:09:14",
+    "close_time": "15:06:10",
+    "delivery_point": "Hill"
+  },
+  {
+    "open_time": "8:51:58",
+    "close_time": "13:15:50",
+    "delivery_point": "Avenue"
+  },
+  {
+    "open_time": "7:23:54",
+    "close_time": "13:10:10",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "7:52:07",
+    "close_time": "16:45:04",
+    "delivery_point": "Parkway"
+  },
+  {
+    "open_time": "9:43:00",
+    "close_time": "14:58:37",
+    "delivery_point": "Place"
+  },
+  {
+    "open_time": "7:37:05",
+    "close_time": "15:11:26",
+    "delivery_point": "Junction"
+  },
+  {
+    "open_time": "10:27:18",
+    "close_time": "16:01:56",
+    "delivery_point": "Plaza"
+  },
+  {
+    "open_time": "10:28:34",
+    "close_time": "14:44:05",
+    "delivery_point": "Terrace"
+  },
+  {
+    "open_time": "10:41:46",
+    "close_time": "13:44:50",
+    "delivery_point": "Plaza"
+  },
+  {
+    "open_time": "11:30:23",
+    "close_time": "16:08:29",
+    "delivery_point": "Point"
+  },
+  {
+    "open_time": "9:44:15",
+    "close_time": "15:36:22",
+    "delivery_point": "Lane"
+  },
+  {
+    "open_time": "8:32:17",
+    "close_time": "15:17:48",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "11:25:25",
+    "close_time": "14:06:59",
+    "delivery_point": "Plaza"
+  },
+  {
+    "open_time": "11:37:58",
+    "close_time": "14:16:27",
+    "delivery_point": "Hill"
+  },
+  {
+    "open_time": "7:10:16",
+    "close_time": "14:34:56",
+    "delivery_point": "Pass"
+  },
+  {
+    "open_time": "9:48:30",
+    "close_time": "13:54:52",
+    "delivery_point": "Plaza"
+  },
+  {
+    "open_time": "8:01:08",
+    "close_time": "13:51:43",
+    "delivery_point": "Point"
+  },
+  {
+    "open_time": "9:34:23",
+    "close_time": "13:58:51",
+    "delivery_point": "Point"
+  },
+  {
+    "open_time": "8:48:32",
+    "close_time": "15:00:49",
+    "delivery_point": "Pass"
+  },
+  {
+    "open_time": "7:20:45",
+    "close_time": "14:27:55",
+    "delivery_point": "Circle"
+  },
+  {
+    "open_time": "10:37:46",
+    "close_time": "16:56:46",
+    "delivery_point": "Center"
+  },
+  {
+    "open_time": "7:26:33",
+    "close_time": "14:02:48",
+    "delivery_point": "Street"
+  },
+  {
+    "open_time": "7:12:02",
+    "close_time": "16:19:52",
+    "delivery_point": "Street"
+  },
+  {
+    "open_time": "10:02:15",
+    "close_time": "16:46:34",
+    "delivery_point": "Alley"
+  },
+  {
+    "open_time": "11:59:50",
+    "close_time": "16:32:19",
+    "delivery_point": "Avenue"
+  },
+  {
+    "open_time": "11:15:05",
+    "close_time": "14:12:18",
+    "delivery_point": "Pass"
+  },
+  {
+    "open_time": "8:23:36",
+    "close_time": "16:58:19",
+    "delivery_point": "Pass"
+  },
+  {
+    "open_time": "10:12:41",
+    "close_time": "13:56:55",
+    "delivery_point": "Alley"
+  },
+  {
+    "open_time": "10:16:37",
+    "close_time": "15:15:45",
+    "delivery_point": "Plaza"
+  },
+  {
+    "open_time": "8:30:06",
+    "close_time": "16:35:51",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "7:01:59",
+    "close_time": "15:14:31",
+    "delivery_point": "Pass"
+  },
+  {
+    "open_time": "11:28:17",
+    "close_time": "13:49:41",
+    "delivery_point": "Place"
+  },
+  {
+    "open_time": "11:15:50",
+    "close_time": "16:37:18",
+    "delivery_point": "Plaza"
+  },
+  {
+    "open_time": "9:25:36",
+    "close_time": "15:31:38",
+    "delivery_point": "Point"
+  },
+  {
+    "open_time": "9:52:15",
+    "close_time": "15:20:52",
+    "delivery_point": "Road"
+  },
+  {
+    "open_time": "11:53:30",
+    "close_time": "13:34:08",
+    "delivery_point": "Park"
+  },
+  {
+    "open_time": "10:35:47",
+    "close_time": "14:23:54",
+    "delivery_point": "Junction"
+  },
+  {
+    "open_time": "11:39:24",
+    "close_time": "15:26:39",
+    "delivery_point": "Avenue"
+  },
+  {
+    "open_time": "11:46:59",
+    "close_time": "16:05:38",
+    "delivery_point": "Avenue"
+  },
+  {
+    "open_time": "9:51:08",
+    "close_time": "16:07:06",
+    "delivery_point": "Drive"
+  },
+  {
+    "open_time": "7:22:05",
+    "close_time": "16:36:46",
+    "delivery_point": "Center"
+  },
+  {
+    "open_time": "9:22:08",
+    "close_time": "16:57:14",
+    "delivery_point": "Center"
+  },
+  {
+    "open_time": "9:19:31",
+    "close_time": "13:17:27",
+    "delivery_point": "Place"
+  },
+  {
+    "open_time": "9:14:42",
+    "close_time": "16:29:17",
+    "delivery_point": "Way"
+  },
+  {
+    "open_time": "9:28:38",
+    "close_time": "16:50:55",
+    "delivery_point": "Road"
+  },
+  {
+    "open_time": "11:44:48",
+    "close_time": "13:34:59",
+    "delivery_point": "Drive"
+  },
+  {
+    "open_time": "10:45:18",
+    "close_time": "16:41:22",
+    "delivery_point": "Center"
+  },
+  {
+    "open_time": "10:28:02",
+    "close_time": "14:49:27",
+    "delivery_point": "Road"
+  },
+  {
+    "open_time": "8:39:00",
+    "close_time": "15:47:22",
+    "delivery_point": "Alley"
+  },
+  {
+    "open_time": "11:51:00",
+    "close_time": "13:58:01",
+    "delivery_point": "Street"
+  },
+  {
+    "open_time": "9:47:39",
+    "close_time": "15:44:52",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "8:37:05",
+    "close_time": "15:39:23",
+    "delivery_point": "Alley"
+  },
+  {
+    "open_time": "8:48:28",
+    "close_time": "13:55:13",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "9:46:54",
+    "close_time": "15:27:12",
+    "delivery_point": "Pass"
+  },
+  {
+    "open_time": "9:02:59",
+    "close_time": "15:06:59",
+    "delivery_point": "Pass"
+  },
+  {
+    "open_time": "9:21:51",
+    "close_time": "16:30:18",
+    "delivery_point": "Alley"
+  },
+  {
+    "open_time": "8:11:18",
+    "close_time": "15:42:02",
+    "delivery_point": "Road"
+  },
+  {
+    "open_time": "11:17:22",
+    "close_time": "15:00:33",
+    "delivery_point": "Center"
+  },
+  {
+    "open_time": "11:17:38",
+    "close_time": "13:24:38",
+    "delivery_point": "Terrace"
+  },
+  {
+    "open_time": "11:24:05",
+    "close_time": "13:29:17",
+    "delivery_point": "Drive"
+  },
+  {
+    "open_time": "8:52:19",
+    "close_time": "13:51:18",
+    "delivery_point": "Terrace"
+  },
+  {
+    "open_time": "11:34:26",
+    "close_time": "14:54:57",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "10:34:26",
+    "close_time": "15:34:26",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "9:14:25",
+    "close_time": "13:15:17",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "7:38:22",
+    "close_time": "15:52:53",
+    "delivery_point": "Street"
+  },
+  {
+    "open_time": "10:03:45",
+    "close_time": "15:03:12",
+    "delivery_point": "Point"
+  },
+  {
+    "open_time": "10:32:12",
+    "close_time": "13:41:48",
+    "delivery_point": "Lane"
+  },
+  {
+    "open_time": "10:19:28",
+    "close_time": "14:26:00",
+    "delivery_point": "Road"
+  },
+  {
+    "open_time": "7:56:33",
+    "close_time": "15:42:34",
+    "delivery_point": "Avenue"
+  },
+  {
+    "open_time": "8:54:52",
+    "close_time": "13:42:20",
+    "delivery_point": "Avenue"
+  },
+  {
+    "open_time": "8:34:30",
+    "close_time": "14:09:44",
+    "delivery_point": "Plaza"
+  },
+  {
+    "open_time": "9:59:28",
+    "close_time": "14:45:22",
+    "delivery_point": "Center"
+  },
+  {
+    "open_time": "10:57:03",
+    "close_time": "16:55:31",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "9:15:38",
+    "close_time": "13:11:23",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "8:15:12",
+    "close_time": "15:16:32",
+    "delivery_point": "Center"
+  },
+  {
+    "open_time": "9:10:34",
+    "close_time": "14:02:29",
+    "delivery_point": "Lane"
+  },
+  {
+    "open_time": "10:36:28",
+    "close_time": "15:08:45",
+    "delivery_point": "Center"
+  },
+  {
+    "open_time": "7:12:08",
+    "close_time": "15:08:51",
+    "delivery_point": "Plaza"
+  },
+  {
+    "open_time": "11:20:54",
+    "close_time": "15:34:28",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "8:35:53",
+    "close_time": "16:59:10",
+    "delivery_point": "Lane"
+  },
+  {
+    "open_time": "9:34:39",
+    "close_time": "13:09:38",
+    "delivery_point": "Way"
+  },
+  {
+    "open_time": "8:20:52",
+    "close_time": "16:37:01",
+    "delivery_point": "Place"
+  },
+  {
+    "open_time": "8:00:11",
+    "close_time": "16:10:51",
+    "delivery_point": "Terrace"
+  },
+  {
+    "open_time": "9:44:27",
+    "close_time": "13:35:57",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "9:38:43",
+    "close_time": "14:46:10",
+    "delivery_point": "Parkway"
+  },
+  {
+    "open_time": "8:05:37",
+    "close_time": "15:51:27",
+    "delivery_point": "Plaza"
+  },
+  {
+    "open_time": "9:57:35",
+    "close_time": "15:47:01",
+    "delivery_point": "Junction"
+  },
+  {
+    "open_time": "10:17:56",
+    "close_time": "16:02:39",
+    "delivery_point": "Alley"
+  },
+  {
+    "open_time": "9:04:14",
+    "close_time": "14:49:12",
+    "delivery_point": "Road"
+  },
+  {
+    "open_time": "7:03:53",
+    "close_time": "16:22:00",
+    "delivery_point": "Way"
+  },
+  {
+    "open_time": "8:58:25",
+    "close_time": "15:45:40",
+    "delivery_point": "Road"
+  },
+  {
+    "open_time": "7:34:30",
+    "close_time": "15:35:16",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "7:26:22",
+    "close_time": "15:00:12",
+    "delivery_point": "Point"
+  },
+  {
+    "open_time": "7:58:05",
+    "close_time": "15:53:02",
+    "delivery_point": "Plaza"
+  },
+  {
+    "open_time": "11:17:14",
+    "close_time": "16:31:55",
+    "delivery_point": "Road"
+  },
+  {
+    "open_time": "9:25:35",
+    "close_time": "16:13:11",
+    "delivery_point": "Avenue"
+  },
+  {
+    "open_time": "10:04:21",
+    "close_time": "16:27:24",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "7:48:36",
+    "close_time": "14:14:46",
+    "delivery_point": "Terrace"
+  },
+  {
+    "open_time": "9:59:08",
+    "close_time": "15:58:54",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "7:58:16",
+    "close_time": "13:32:46",
+    "delivery_point": "Drive"
+  },
+  {
+    "open_time": "11:34:44",
+    "close_time": "13:22:51",
+    "delivery_point": "Alley"
+  },
+  {
+    "open_time": "10:54:32",
+    "close_time": "16:46:52",
+    "delivery_point": "Center"
+  },
+  {
+    "open_time": "7:00:15",
+    "close_time": "13:12:09",
+    "delivery_point": "Lane"
+  },
+  {
+    "open_time": "7:00:12",
+    "close_time": "13:53:21",
+    "delivery_point": "Hill"
+  },
+  {
+    "open_time": "7:47:18",
+    "close_time": "13:12:47",
+    "delivery_point": "Point"
+  },
+  {
+    "open_time": "11:48:16",
+    "close_time": "13:35:47",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "7:53:09",
+    "close_time": "15:27:23",
+    "delivery_point": "Circle"
+  },
+  {
+    "open_time": "9:43:07",
+    "close_time": "14:38:17",
+    "delivery_point": "Circle"
+  },
+  {
+    "open_time": "9:32:23",
+    "close_time": "14:41:09",
+    "delivery_point": "Center"
+  },
+  {
+    "open_time": "8:32:21",
+    "close_time": "13:40:36",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "8:25:22",
+    "close_time": "13:51:17",
+    "delivery_point": "Road"
+  },
+  {
+    "open_time": "9:17:14",
+    "close_time": "13:21:52",
+    "delivery_point": "Drive"
+  },
+  {
+    "open_time": "10:21:54",
+    "close_time": "15:20:04",
+    "delivery_point": "Alley"
+  },
+  {
+    "open_time": "11:20:05",
+    "close_time": "16:01:30",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "11:44:27",
+    "close_time": "13:38:02",
+    "delivery_point": "Place"
+  },
+  {
+    "open_time": "11:03:53",
+    "close_time": "16:06:04",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "8:34:20",
+    "close_time": "14:01:12",
+    "delivery_point": "Alley"
+  },
+  {
+    "open_time": "8:40:02",
+    "close_time": "14:48:40",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "11:56:50",
+    "close_time": "13:21:38",
+    "delivery_point": "Parkway"
+  },
+  {
+    "open_time": "7:30:24",
+    "close_time": "15:05:35",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "7:37:14",
+    "close_time": "13:24:34",
+    "delivery_point": "Place"
+  },
+  {
+    "open_time": "10:53:22",
+    "close_time": "14:40:09",
+    "delivery_point": "Place"
+  },
+  {
+    "open_time": "10:16:18",
+    "close_time": "16:27:09",
+    "delivery_point": "Plaza"
+  },
+  {
+    "open_time": "7:33:10",
+    "close_time": "13:26:13",
+    "delivery_point": "Street"
+  },
+  {
+    "open_time": "8:48:26",
+    "close_time": "15:22:59",
+    "delivery_point": "Way"
+  },
+  {
+    "open_time": "7:23:23",
+    "close_time": "15:25:43",
+    "delivery_point": "Center"
+  },
+  {
+    "open_time": "10:31:44",
+    "close_time": "13:33:46",
+    "delivery_point": "Drive"
+  },
+  {
+    "open_time": "10:53:28",
+    "close_time": "13:03:18",
+    "delivery_point": "Parkway"
+  },
+  {
+    "open_time": "9:00:59",
+    "close_time": "14:59:57",
+    "delivery_point": "Street"
+  },
+  {
+    "open_time": "11:30:20",
+    "close_time": "14:08:32",
+    "delivery_point": "Avenue"
+  },
+  {
+    "open_time": "10:12:30",
+    "close_time": "15:02:13",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "9:38:23",
+    "close_time": "14:11:23",
+    "delivery_point": "Point"
+  },
+  {
+    "open_time": "7:35:46",
+    "close_time": "14:54:21",
+    "delivery_point": "Road"
+  },
+  {
+    "open_time": "9:54:21",
+    "close_time": "15:22:46",
+    "delivery_point": "Point"
+  },
+  {
+    "open_time": "10:45:16",
+    "close_time": "15:20:45",
+    "delivery_point": "Terrace"
+  },
+  {
+    "open_time": "8:35:12",
+    "close_time": "13:18:50",
+    "delivery_point": "Lane"
+  },
+  {
+    "open_time": "10:15:09",
+    "close_time": "14:20:10",
+    "delivery_point": "Pass"
+  },
+  {
+    "open_time": "8:14:32",
+    "close_time": "13:50:25",
+    "delivery_point": "Road"
+  },
+  {
+    "open_time": "9:16:48",
+    "close_time": "15:09:57",
+    "delivery_point": "Avenue"
+  },
+  {
+    "open_time": "7:43:45",
+    "close_time": "14:44:22",
+    "delivery_point": "Point"
+  },
+  {
+    "open_time": "9:10:42",
+    "close_time": "14:37:21",
+    "delivery_point": "Parkway"
+  },
+  {
+    "open_time": "7:09:39",
+    "close_time": "16:13:32",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "10:30:13",
+    "close_time": "13:11:16",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "7:52:06",
+    "close_time": "16:25:01",
+    "delivery_point": "Terrace"
+  },
+  {
+    "open_time": "8:11:09",
+    "close_time": "15:41:39",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "10:15:42",
+    "close_time": "13:42:32",
+    "delivery_point": "Street"
+  },
+  {
+    "open_time": "11:24:21",
+    "close_time": "16:25:24",
+    "delivery_point": "Alley"
+  },
+  {
+    "open_time": "10:37:50",
+    "close_time": "13:11:00",
+    "delivery_point": "Circle"
+  },
+  {
+    "open_time": "11:57:09",
+    "close_time": "16:18:03",
+    "delivery_point": "Park"
+  },
+  {
+    "open_time": "10:27:46",
+    "close_time": "16:00:36",
+    "delivery_point": "Alley"
+  },
+  {
+    "open_time": "9:55:01",
+    "close_time": "14:02:22",
+    "delivery_point": "Circle"
+  },
+  {
+    "open_time": "11:08:33",
+    "close_time": "14:34:18",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "9:53:02",
+    "close_time": "14:47:51",
+    "delivery_point": "Avenue"
+  },
+  {
+    "open_time": "11:03:40",
+    "close_time": "13:11:38",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "9:04:40",
+    "close_time": "16:09:30",
+    "delivery_point": "Circle"
+  },
+  {
+    "open_time": "7:18:20",
+    "close_time": "16:48:35",
+    "delivery_point": "Point"
+  },
+  {
+    "open_time": "7:14:27",
+    "close_time": "15:17:47",
+    "delivery_point": "Park"
+  },
+  {
+    "open_time": "7:29:57",
+    "close_time": "15:01:07",
+    "delivery_point": "Junction"
+  },
+  {
+    "open_time": "11:10:05",
+    "close_time": "13:08:10",
+    "delivery_point": "Alley"
+  },
+  {
+    "open_time": "8:21:13",
+    "close_time": "15:05:43",
+    "delivery_point": "Center"
+  },
+  {
+    "open_time": "10:34:06",
+    "close_time": "13:16:39",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "8:14:35",
+    "close_time": "14:18:44",
+    "delivery_point": "Pass"
+  },
+  {
+    "open_time": "11:42:28",
+    "close_time": "15:07:10",
+    "delivery_point": "Lane"
+  },
+  {
+    "open_time": "8:31:40",
+    "close_time": "15:46:31",
+    "delivery_point": "Hill"
+  },
+  {
+    "open_time": "8:09:22",
+    "close_time": "14:47:24",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "8:49:34",
+    "close_time": "14:43:02",
+    "delivery_point": "Junction"
+  },
+  {
+    "open_time": "7:13:12",
+    "close_time": "13:03:10",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "7:30:16",
+    "close_time": "15:06:41",
+    "delivery_point": "Plaza"
+  },
+  {
+    "open_time": "7:43:41",
+    "close_time": "15:25:33",
+    "delivery_point": "Point"
+  },
+  {
+    "open_time": "9:52:28",
+    "close_time": "13:10:32",
+    "delivery_point": "Terrace"
+  },
+  {
+    "open_time": "8:04:21",
+    "close_time": "14:25:49",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "7:49:49",
+    "close_time": "13:15:16",
+    "delivery_point": "Circle"
+  },
+  {
+    "open_time": "9:29:02",
+    "close_time": "14:32:52",
+    "delivery_point": "Lane"
+  },
+  {
+    "open_time": "10:57:05",
+    "close_time": "13:04:02",
+    "delivery_point": "Alley"
+  },
+  {
+    "open_time": "8:10:20",
+    "close_time": "13:14:12",
+    "delivery_point": "Point"
+  },
+  {
+    "open_time": "7:29:29",
+    "close_time": "13:15:54",
+    "delivery_point": "Way"
+  },
+  {
+    "open_time": "8:41:54",
+    "close_time": "13:53:36",
+    "delivery_point": "Center"
+  },
+  {
+    "open_time": "9:42:53",
+    "close_time": "16:00:40",
+    "delivery_point": "Hill"
+  },
+  {
+    "open_time": "11:21:00",
+    "close_time": "16:45:38",
+    "delivery_point": "Center"
+  },
+  {
+    "open_time": "9:05:12",
+    "close_time": "13:33:30",
+    "delivery_point": "Place"
+  },
+  {
+    "open_time": "7:00:15",
+    "close_time": "13:43:13",
+    "delivery_point": "Road"
+  },
+  {
+    "open_time": "7:50:58",
+    "close_time": "13:43:10",
+    "delivery_point": "Circle"
+  },
+  {
+    "open_time": "7:19:25",
+    "close_time": "16:15:59",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "7:52:45",
+    "close_time": "14:33:15",
+    "delivery_point": "Terrace"
+  },
+  {
+    "open_time": "9:58:11",
+    "close_time": "13:33:55",
+    "delivery_point": "Plaza"
+  },
+  {
+    "open_time": "7:13:27",
+    "close_time": "13:22:11",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "10:01:02",
+    "close_time": "16:23:48",
+    "delivery_point": "Way"
+  },
+  {
+    "open_time": "8:17:52",
+    "close_time": "16:10:04",
+    "delivery_point": "Place"
+  },
+  {
+    "open_time": "8:52:52",
+    "close_time": "14:42:08",
+    "delivery_point": "Park"
+  },
+  {
+    "open_time": "10:36:21",
+    "close_time": "15:08:45",
+    "delivery_point": "Junction"
+  },
+  {
+    "open_time": "9:16:15",
+    "close_time": "14:35:43",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "7:06:02",
+    "close_time": "16:56:48",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "9:35:46",
+    "close_time": "14:39:38",
+    "delivery_point": "Circle"
+  },
+  {
+    "open_time": "10:11:13",
+    "close_time": "16:35:20",
+    "delivery_point": "Street"
+  },
+  {
+    "open_time": "10:07:08",
+    "close_time": "15:27:44",
+    "delivery_point": "Place"
+  },
+  {
+    "open_time": "11:55:20",
+    "close_time": "14:22:02",
+    "delivery_point": "Terrace"
+  },
+  {
+    "open_time": "9:53:00",
+    "close_time": "14:46:08",
+    "delivery_point": "Way"
+  },
+  {
+    "open_time": "8:48:53",
+    "close_time": "16:32:18",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "7:19:13",
+    "close_time": "16:45:04",
+    "delivery_point": "Parkway"
+  },
+  {
+    "open_time": "10:48:59",
+    "close_time": "13:49:39",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "8:22:48",
+    "close_time": "13:22:07",
+    "delivery_point": "Avenue"
+  },
+  {
+    "open_time": "7:42:03",
+    "close_time": "16:05:25",
+    "delivery_point": "Way"
+  },
+  {
+    "open_time": "8:11:44",
+    "close_time": "14:09:33",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "10:19:47",
+    "close_time": "13:53:51",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "11:56:14",
+    "close_time": "16:15:41",
+    "delivery_point": "Parkway"
+  },
+  {
+    "open_time": "10:48:16",
+    "close_time": "15:12:46",
+    "delivery_point": "Way"
+  },
+  {
+    "open_time": "9:57:02",
+    "close_time": "14:25:46",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "8:49:20",
+    "close_time": "14:34:28",
+    "delivery_point": "Road"
+  },
+  {
+    "open_time": "7:38:02",
+    "close_time": "16:06:22",
+    "delivery_point": "Park"
+  },
+  {
+    "open_time": "8:28:19",
+    "close_time": "15:26:46",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "9:51:06",
+    "close_time": "15:29:57",
+    "delivery_point": "Junction"
+  },
+  {
+    "open_time": "10:44:57",
+    "close_time": "14:33:31",
+    "delivery_point": "Place"
+  },
+  {
+    "open_time": "8:39:47",
+    "close_time": "16:40:22",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "7:49:24",
+    "close_time": "14:46:18",
+    "delivery_point": "Alley"
+  },
+  {
+    "open_time": "11:22:04",
+    "close_time": "13:28:01",
+    "delivery_point": "Plaza"
+  },
+  {
+    "open_time": "8:41:11",
+    "close_time": "15:54:19",
+    "delivery_point": "Terrace"
+  },
+  {
+    "open_time": "11:56:18",
+    "close_time": "16:08:11",
+    "delivery_point": "Road"
+  },
+  {
+    "open_time": "11:49:39",
+    "close_time": "15:54:45",
+    "delivery_point": "Parkway"
+  },
+  {
+    "open_time": "10:00:52",
+    "close_time": "14:17:02",
+    "delivery_point": "Lane"
+  },
+  {
+    "open_time": "9:20:44",
+    "close_time": "13:55:59",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "10:48:54",
+    "close_time": "15:34:42",
+    "delivery_point": "Point"
+  },
+  {
+    "open_time": "8:28:07",
+    "close_time": "16:51:46",
+    "delivery_point": "Street"
+  },
+  {
+    "open_time": "8:47:23",
+    "close_time": "16:14:38",
+    "delivery_point": "Plaza"
+  },
+  {
+    "open_time": "11:40:09",
+    "close_time": "14:56:15",
+    "delivery_point": "Pass"
+  },
+  {
+    "open_time": "10:50:59",
+    "close_time": "14:06:21",
+    "delivery_point": "Alley"
+  },
+  {
+    "open_time": "11:09:17",
+    "close_time": "16:29:26",
+    "delivery_point": "Place"
+  },
+  {
+    "open_time": "9:03:42",
+    "close_time": "16:00:38",
+    "delivery_point": "Park"
+  },
+  {
+    "open_time": "9:01:14",
+    "close_time": "13:33:51",
+    "delivery_point": "Way"
+  },
+  {
+    "open_time": "9:02:01",
+    "close_time": "14:35:43",
+    "delivery_point": "Center"
+  },
+  {
+    "open_time": "8:32:09",
+    "close_time": "16:51:20",
+    "delivery_point": "Drive"
+  },
+  {
+    "open_time": "11:23:02",
+    "close_time": "16:43:34",
+    "delivery_point": "Junction"
+  },
+  {
+    "open_time": "11:27:32",
+    "close_time": "15:42:27",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "9:42:00",
+    "close_time": "16:41:36",
+    "delivery_point": "Plaza"
+  },
+  {
+    "open_time": "7:33:21",
+    "close_time": "14:41:55",
+    "delivery_point": "Parkway"
+  },
+  {
+    "open_time": "11:22:22",
+    "close_time": "14:28:37",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "7:14:41",
+    "close_time": "13:15:49",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "10:34:09",
+    "close_time": "15:53:06",
+    "delivery_point": "Circle"
+  },
+  {
+    "open_time": "11:20:07",
+    "close_time": "13:37:15",
+    "delivery_point": "Alley"
+  },
+  {
+    "open_time": "10:53:39",
+    "close_time": "16:21:39",
+    "delivery_point": "Park"
+  },
+  {
+    "open_time": "9:58:28",
+    "close_time": "13:25:44",
+    "delivery_point": "Center"
+  },
+  {
+    "open_time": "8:59:28",
+    "close_time": "14:46:10",
+    "delivery_point": "Plaza"
+  },
+  {
+    "open_time": "9:48:25",
+    "close_time": "14:33:57",
+    "delivery_point": "Plaza"
+  },
+  {
+    "open_time": "8:19:19",
+    "close_time": "14:49:48",
+    "delivery_point": "Street"
+  },
+  {
+    "open_time": "9:02:24",
+    "close_time": "16:19:41",
+    "delivery_point": "Lane"
+  },
+  {
+    "open_time": "11:53:15",
+    "close_time": "14:34:21",
+    "delivery_point": "Alley"
+  },
+  {
+    "open_time": "9:23:32",
+    "close_time": "16:07:31",
+    "delivery_point": "Junction"
+  },
+  {
+    "open_time": "10:47:22",
+    "close_time": "16:50:30",
+    "delivery_point": "Pass"
+  },
+  {
+    "open_time": "9:06:01",
+    "close_time": "13:40:54",
+    "delivery_point": "Parkway"
+  },
+  {
+    "open_time": "11:18:01",
+    "close_time": "13:24:09",
+    "delivery_point": "Way"
+  },
+  {
+    "open_time": "7:40:44",
+    "close_time": "13:53:07",
+    "delivery_point": "Hill"
+  },
+  {
+    "open_time": "10:08:13",
+    "close_time": "14:55:53",
+    "delivery_point": "Avenue"
+  },
+  {
+    "open_time": "8:22:14",
+    "close_time": "13:15:09",
+    "delivery_point": "Way"
+  },
+  {
+    "open_time": "11:11:12",
+    "close_time": "16:31:23",
+    "delivery_point": "Point"
+  },
+  {
+    "open_time": "8:39:51",
+    "close_time": "16:50:56",
+    "delivery_point": "Point"
+  },
+  {
+    "open_time": "8:11:40",
+    "close_time": "15:37:46",
+    "delivery_point": "Center"
+  },
+  {
+    "open_time": "10:00:32",
+    "close_time": "14:38:13",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "8:42:59",
+    "close_time": "16:55:51",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "11:34:17",
+    "close_time": "13:55:26",
+    "delivery_point": "Circle"
+  },
+  {
+    "open_time": "10:39:39",
+    "close_time": "16:43:57",
+    "delivery_point": "Place"
+  },
+  {
+    "open_time": "9:01:28",
+    "close_time": "15:05:22",
+    "delivery_point": "Avenue"
+  },
+  {
+    "open_time": "11:39:54",
+    "close_time": "13:47:12",
+    "delivery_point": "Place"
+  },
+  {
+    "open_time": "10:13:30",
+    "close_time": "13:12:36",
+    "delivery_point": "Point"
+  },
+  {
+    "open_time": "10:54:01",
+    "close_time": "14:05:00",
+    "delivery_point": "Lane"
+  },
+  {
+    "open_time": "9:24:56",
+    "close_time": "15:22:58",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "8:31:43",
+    "close_time": "13:02:33",
+    "delivery_point": "Street"
+  },
+  {
+    "open_time": "10:20:11",
+    "close_time": "13:55:49",
+    "delivery_point": "Avenue"
+  },
+  {
+    "open_time": "11:31:33",
+    "close_time": "14:57:50",
+    "delivery_point": "Plaza"
+  },
+  {
+    "open_time": "7:20:34",
+    "close_time": "16:24:29",
+    "delivery_point": "Park"
+  },
+  {
+    "open_time": "11:13:15",
+    "close_time": "13:53:58",
+    "delivery_point": "Junction"
+  },
+  {
+    "open_time": "9:02:37",
+    "close_time": "14:41:19",
+    "delivery_point": "Point"
+  },
+  {
+    "open_time": "8:31:25",
+    "close_time": "15:21:15",
+    "delivery_point": "Center"
+  },
+  {
+    "open_time": "10:30:34",
+    "close_time": "13:50:59",
+    "delivery_point": "Lane"
+  },
+  {
+    "open_time": "11:21:36",
+    "close_time": "15:08:46",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "7:16:57",
+    "close_time": "15:34:13",
+    "delivery_point": "Drive"
+  },
+  {
+    "open_time": "11:28:48",
+    "close_time": "15:17:58",
+    "delivery_point": "Road"
+  },
+  {
+    "open_time": "11:11:58",
+    "close_time": "16:11:58",
+    "delivery_point": "Avenue"
+  },
+  {
+    "open_time": "11:32:56",
+    "close_time": "15:46:45",
+    "delivery_point": "Pass"
+  },
+  {
+    "open_time": "10:44:01",
+    "close_time": "14:46:53",
+    "delivery_point": "Drive"
+  },
+  {
+    "open_time": "10:00:24",
+    "close_time": "14:13:05",
+    "delivery_point": "Road"
+  },
+  {
+    "open_time": "9:55:47",
+    "close_time": "16:22:14",
+    "delivery_point": "Alley"
+  },
+  {
+    "open_time": "10:27:28",
+    "close_time": "16:39:10",
+    "delivery_point": "Drive"
+  },
+  {
+    "open_time": "9:57:08",
+    "close_time": "16:24:18",
+    "delivery_point": "Lane"
+  },
+  {
+    "open_time": "9:22:55",
+    "close_time": "15:34:32",
+    "delivery_point": "Point"
+  },
+  {
+    "open_time": "8:44:26",
+    "close_time": "14:43:35",
+    "delivery_point": "Street"
+  },
+  {
+    "open_time": "9:34:04",
+    "close_time": "15:18:41",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "9:36:48",
+    "close_time": "16:26:02",
+    "delivery_point": "Plaza"
+  },
+  {
+    "open_time": "8:53:27",
+    "close_time": "14:17:04",
+    "delivery_point": "Road"
+  },
+  {
+    "open_time": "7:11:03",
+    "close_time": "15:04:03",
+    "delivery_point": "Alley"
+  },
+  {
+    "open_time": "9:39:52",
+    "close_time": "16:49:30",
+    "delivery_point": "Park"
+  },
+  {
+    "open_time": "8:32:11",
+    "close_time": "14:25:11",
+    "delivery_point": "Avenue"
+  },
+  {
+    "open_time": "7:30:40",
+    "close_time": "14:06:44",
+    "delivery_point": "Terrace"
+  },
+  {
+    "open_time": "8:05:45",
+    "close_time": "14:17:58",
+    "delivery_point": "Hill"
+  },
+  {
+    "open_time": "11:20:45",
+    "close_time": "16:27:14",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "11:22:21",
+    "close_time": "15:51:06",
+    "delivery_point": "Alley"
+  },
+  {
+    "open_time": "9:41:12",
+    "close_time": "13:22:41",
+    "delivery_point": "Park"
+  },
+  {
+    "open_time": "11:05:33",
+    "close_time": "15:03:58",
+    "delivery_point": "Junction"
+  },
+  {
+    "open_time": "7:36:56",
+    "close_time": "14:51:19",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "7:11:09",
+    "close_time": "15:51:09",
+    "delivery_point": "Terrace"
+  },
+  {
+    "open_time": "10:17:34",
+    "close_time": "13:56:37",
+    "delivery_point": "Park"
+  },
+  {
+    "open_time": "9:02:56",
+    "close_time": "13:47:36",
+    "delivery_point": "Parkway"
+  },
+  {
+    "open_time": "11:54:27",
+    "close_time": "16:36:51",
+    "delivery_point": "Way"
+  },
+  {
+    "open_time": "8:41:29",
+    "close_time": "14:20:30",
+    "delivery_point": "Junction"
+  },
+  {
+    "open_time": "9:39:13",
+    "close_time": "13:47:54",
+    "delivery_point": "Drive"
+  },
+  {
+    "open_time": "10:47:44",
+    "close_time": "13:28:57",
+    "delivery_point": "Lane"
+  },
+  {
+    "open_time": "8:10:46",
+    "close_time": "16:01:18",
+    "delivery_point": "Avenue"
+  },
+  {
+    "open_time": "11:31:17",
+    "close_time": "13:43:20",
+    "delivery_point": "Pass"
+  },
+  {
+    "open_time": "7:03:33",
+    "close_time": "14:38:11",
+    "delivery_point": "Hill"
+  },
+  {
+    "open_time": "10:08:46",
+    "close_time": "14:35:45",
+    "delivery_point": "Place"
+  },
+  {
+    "open_time": "9:56:50",
+    "close_time": "13:58:01",
+    "delivery_point": "Place"
+  },
+  {
+    "open_time": "10:59:01",
+    "close_time": "14:39:14",
+    "delivery_point": "Avenue"
+  },
+  {
+    "open_time": "9:42:35",
+    "close_time": "14:49:13",
+    "delivery_point": "Point"
+  },
+  {
+    "open_time": "7:22:37",
+    "close_time": "16:49:24",
+    "delivery_point": "Terrace"
+  },
+  {
+    "open_time": "8:06:53",
+    "close_time": "15:00:43",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "11:22:23",
+    "close_time": "15:45:21",
+    "delivery_point": "Point"
+  },
+  {
+    "open_time": "8:27:59",
+    "close_time": "15:09:47",
+    "delivery_point": "Plaza"
+  },
+  {
+    "open_time": "9:01:55",
+    "close_time": "16:15:10",
+    "delivery_point": "Avenue"
+  },
+  {
+    "open_time": "10:59:48",
+    "close_time": "15:35:06",
+    "delivery_point": "Point"
+  },
+  {
+    "open_time": "9:37:25",
+    "close_time": "15:51:42",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "11:53:39",
+    "close_time": "15:03:10",
+    "delivery_point": "Plaza"
+  },
+  {
+    "open_time": "10:14:26",
+    "close_time": "15:59:07",
+    "delivery_point": "Junction"
+  },
+  {
+    "open_time": "7:11:15",
+    "close_time": "13:11:44",
+    "delivery_point": "Center"
+  },
+  {
+    "open_time": "11:05:54",
+    "close_time": "15:04:14",
+    "delivery_point": "Point"
+  },
+  {
+    "open_time": "10:11:32",
+    "close_time": "15:33:06",
+    "delivery_point": "Center"
+  },
+  {
+    "open_time": "10:46:09",
+    "close_time": "14:55:29",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "9:28:19",
+    "close_time": "14:25:14",
+    "delivery_point": "Road"
+  },
+  {
+    "open_time": "7:11:51",
+    "close_time": "14:51:59",
+    "delivery_point": "Hill"
+  },
+  {
+    "open_time": "9:30:21",
+    "close_time": "13:51:09",
+    "delivery_point": "Park"
+  },
+  {
+    "open_time": "7:55:47",
+    "close_time": "13:27:30",
+    "delivery_point": "Terrace"
+  },
+  {
+    "open_time": "11:46:16",
+    "close_time": "15:47:44",
+    "delivery_point": "Center"
+  },
+  {
+    "open_time": "9:06:26",
+    "close_time": "14:41:22",
+    "delivery_point": "Way"
+  },
+  {
+    "open_time": "7:37:02",
+    "close_time": "14:58:38",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "10:18:03",
+    "close_time": "14:10:08",
+    "delivery_point": "Parkway"
+  },
+  {
+    "open_time": "7:40:04",
+    "close_time": "15:37:14",
+    "delivery_point": "Park"
+  },
+  {
+    "open_time": "8:50:51",
+    "close_time": "15:34:56",
+    "delivery_point": "Hill"
+  },
+  {
+    "open_time": "11:20:54",
+    "close_time": "13:36:35",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "9:54:25",
+    "close_time": "14:25:25",
+    "delivery_point": "Way"
+  },
+  {
+    "open_time": "9:53:48",
+    "close_time": "14:05:39",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "11:43:32",
+    "close_time": "15:32:32",
+    "delivery_point": "Circle"
+  },
+  {
+    "open_time": "11:27:55",
+    "close_time": "14:11:03",
+    "delivery_point": "Park"
+  },
+  {
+    "open_time": "9:44:49",
+    "close_time": "14:50:09",
+    "delivery_point": "Hill"
+  },
+  {
+    "open_time": "11:20:18",
+    "close_time": "14:59:05",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "8:23:37",
+    "close_time": "14:45:19",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "7:48:43",
+    "close_time": "16:18:59",
+    "delivery_point": "Junction"
+  },
+  {
+    "open_time": "9:35:55",
+    "close_time": "15:57:18",
+    "delivery_point": "Plaza"
+  },
+  {
+    "open_time": "9:55:34",
+    "close_time": "13:05:31",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "9:22:09",
+    "close_time": "14:34:15",
+    "delivery_point": "Road"
+  },
+  {
+    "open_time": "10:03:51",
+    "close_time": "15:35:58",
+    "delivery_point": "Street"
+  },
+  {
+    "open_time": "7:36:07",
+    "close_time": "13:24:59",
+    "delivery_point": "Hill"
+  },
+  {
+    "open_time": "9:57:49",
+    "close_time": "16:27:33",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "10:11:39",
+    "close_time": "14:01:09",
+    "delivery_point": "Center"
+  },
+  {
+    "open_time": "10:57:43",
+    "close_time": "14:54:29",
+    "delivery_point": "Place"
+  },
+  {
+    "open_time": "7:16:31",
+    "close_time": "13:24:49",
+    "delivery_point": "Street"
+  },
+  {
+    "open_time": "9:38:02",
+    "close_time": "13:08:32",
+    "delivery_point": "Circle"
+  },
+  {
+    "open_time": "8:19:40",
+    "close_time": "13:01:07",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "9:16:07",
+    "close_time": "13:25:47",
+    "delivery_point": "Alley"
+  },
+  {
+    "open_time": "7:17:24",
+    "close_time": "14:29:37",
+    "delivery_point": "Way"
+  },
+  {
+    "open_time": "11:20:37",
+    "close_time": "15:47:02",
+    "delivery_point": "Parkway"
+  },
+  {
+    "open_time": "9:35:28",
+    "close_time": "13:51:18",
+    "delivery_point": "Junction"
+  },
+  {
+    "open_time": "9:21:05",
+    "close_time": "14:20:05",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "10:01:14",
+    "close_time": "13:11:37",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "8:52:47",
+    "close_time": "15:46:53",
+    "delivery_point": "Center"
+  },
+  {
+    "open_time": "11:13:35",
+    "close_time": "14:17:02",
+    "delivery_point": "Point"
+  },
+  {
+    "open_time": "9:51:47",
+    "close_time": "15:28:00",
+    "delivery_point": "Avenue"
+  },
+  {
+    "open_time": "9:20:02",
+    "close_time": "16:16:17",
+    "delivery_point": "Park"
+  },
+  {
+    "open_time": "10:22:44",
+    "close_time": "15:50:03",
+    "delivery_point": "Avenue"
+  },
+  {
+    "open_time": "8:00:36",
+    "close_time": "15:52:28",
+    "delivery_point": "Alley"
+  },
+  {
+    "open_time": "10:56:41",
+    "close_time": "15:20:56",
+    "delivery_point": "Place"
+  },
+  {
+    "open_time": "7:32:20",
+    "close_time": "14:07:07",
+    "delivery_point": "Circle"
+  },
+  {
+    "open_time": "11:52:01",
+    "close_time": "15:19:40",
+    "delivery_point": "Road"
+  },
+  {
+    "open_time": "7:18:25",
+    "close_time": "13:41:09",
+    "delivery_point": "Avenue"
+  },
+  {
+    "open_time": "8:37:01",
+    "close_time": "15:18:02",
+    "delivery_point": "Avenue"
+  },
+  {
+    "open_time": "10:25:37",
+    "close_time": "15:57:30",
+    "delivery_point": "Way"
+  },
+  {
+    "open_time": "8:11:40",
+    "close_time": "13:24:32",
+    "delivery_point": "Lane"
+  },
+  {
+    "open_time": "9:50:56",
+    "close_time": "16:04:46",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "10:16:24",
+    "close_time": "14:50:02",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "11:01:01",
+    "close_time": "13:55:44",
+    "delivery_point": "Avenue"
+  },
+  {
+    "open_time": "8:30:52",
+    "close_time": "13:46:38",
+    "delivery_point": "Center"
+  },
+  {
+    "open_time": "7:54:59",
+    "close_time": "16:27:20",
+    "delivery_point": "Park"
+  },
+  {
+    "open_time": "7:58:47",
+    "close_time": "13:51:48",
+    "delivery_point": "Alley"
+  },
+  {
+    "open_time": "10:46:51",
+    "close_time": "15:49:41",
+    "delivery_point": "Parkway"
+  },
+  {
+    "open_time": "7:05:59",
+    "close_time": "13:16:58",
+    "delivery_point": "Alley"
+  },
+  {
+    "open_time": "8:56:22",
+    "close_time": "13:54:20",
+    "delivery_point": "Circle"
+  },
+  {
+    "open_time": "10:32:18",
+    "close_time": "15:09:34",
+    "delivery_point": "Center"
+  },
+  {
+    "open_time": "11:04:14",
+    "close_time": "14:49:41",
+    "delivery_point": "Junction"
+  },
+  {
+    "open_time": "10:23:47",
+    "close_time": "14:11:20",
+    "delivery_point": "Street"
+  },
+  {
+    "open_time": "7:42:27",
+    "close_time": "13:08:46",
+    "delivery_point": "Pass"
+  },
+  {
+    "open_time": "11:56:13",
+    "close_time": "14:01:33",
+    "delivery_point": "Center"
+  },
+  {
+    "open_time": "9:29:15",
+    "close_time": "14:51:40",
+    "delivery_point": "Place"
+  },
+  {
+    "open_time": "7:33:18",
+    "close_time": "15:29:22",
+    "delivery_point": "Circle"
+  },
+  {
+    "open_time": "8:36:52",
+    "close_time": "16:39:10",
+    "delivery_point": "Drive"
+  },
+  {
+    "open_time": "10:05:35",
+    "close_time": "14:40:46",
+    "delivery_point": "Terrace"
+  },
+  {
+    "open_time": "9:01:16",
+    "close_time": "13:01:07",
+    "delivery_point": "Parkway"
+  },
+  {
+    "open_time": "7:25:02",
+    "close_time": "16:13:58",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "8:35:12",
+    "close_time": "16:08:39",
+    "delivery_point": "Center"
+  },
+  {
+    "open_time": "8:27:51",
+    "close_time": "14:29:08",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "10:39:12",
+    "close_time": "16:15:54",
+    "delivery_point": "Center"
+  },
+  {
+    "open_time": "7:27:04",
+    "close_time": "16:25:37",
+    "delivery_point": "Hill"
+  },
+  {
+    "open_time": "7:47:17",
+    "close_time": "14:10:26",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "10:55:50",
+    "close_time": "13:10:39",
+    "delivery_point": "Street"
+  },
+  {
+    "open_time": "11:27:01",
+    "close_time": "14:01:33",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "10:20:45",
+    "close_time": "16:47:20",
+    "delivery_point": "Drive"
+  },
+  {
+    "open_time": "10:41:08",
+    "close_time": "16:52:09",
+    "delivery_point": "Lane"
+  },
+  {
+    "open_time": "9:15:33",
+    "close_time": "16:51:25",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "11:13:58",
+    "close_time": "14:28:55",
+    "delivery_point": "Circle"
+  },
+  {
+    "open_time": "7:39:56",
+    "close_time": "15:10:25",
+    "delivery_point": "Pass"
+  },
+  {
+    "open_time": "11:36:16",
+    "close_time": "15:44:06",
+    "delivery_point": "Alley"
+  },
+  {
+    "open_time": "9:22:49",
+    "close_time": "14:32:04",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "8:27:14",
+    "close_time": "16:43:01",
+    "delivery_point": "Place"
+  },
+  {
+    "open_time": "7:20:58",
+    "close_time": "14:36:01",
+    "delivery_point": "Center"
+  },
+  {
+    "open_time": "7:12:41",
+    "close_time": "16:42:16",
+    "delivery_point": "Place"
+  },
+  {
+    "open_time": "10:39:25",
+    "close_time": "14:16:09",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "7:25:20",
+    "close_time": "15:20:10",
+    "delivery_point": "Street"
+  },
+  {
+    "open_time": "9:57:52",
+    "close_time": "14:14:17",
+    "delivery_point": "Avenue"
+  },
+  {
+    "open_time": "8:00:56",
+    "close_time": "16:04:02",
+    "delivery_point": "Park"
+  },
+  {
+    "open_time": "7:07:00",
+    "close_time": "13:11:46",
+    "delivery_point": "Terrace"
+  },
+  {
+    "open_time": "8:00:16",
+    "close_time": "15:34:30",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "11:04:50",
+    "close_time": "13:35:17",
+    "delivery_point": "Pass"
+  },
+  {
+    "open_time": "11:54:11",
+    "close_time": "13:18:02",
+    "delivery_point": "Terrace"
+  },
+  {
+    "open_time": "11:45:18",
+    "close_time": "16:56:31",
+    "delivery_point": "Place"
+  },
+  {
+    "open_time": "10:56:05",
+    "close_time": "15:07:59",
+    "delivery_point": "Terrace"
+  },
+  {
+    "open_time": "7:39:31",
+    "close_time": "13:07:55",
+    "delivery_point": "Pass"
+  },
+  {
+    "open_time": "9:17:29",
+    "close_time": "15:51:51",
+    "delivery_point": "Drive"
+  },
+  {
+    "open_time": "11:04:16",
+    "close_time": "14:42:16",
+    "delivery_point": "Plaza"
+  },
+  {
+    "open_time": "7:20:47",
+    "close_time": "14:27:28",
+    "delivery_point": "Street"
+  },
+  {
+    "open_time": "8:22:09",
+    "close_time": "16:37:31",
+    "delivery_point": "Circle"
+  },
+  {
+    "open_time": "7:31:45",
+    "close_time": "15:25:25",
+    "delivery_point": "Pass"
+  },
+  {
+    "open_time": "11:13:44",
+    "close_time": "15:47:37",
+    "delivery_point": "Plaza"
+  },
+  {
+    "open_time": "10:57:46",
+    "close_time": "13:01:36",
+    "delivery_point": "Park"
+  },
+  {
+    "open_time": "11:48:58",
+    "close_time": "13:03:02",
+    "delivery_point": "Junction"
+  },
+  {
+    "open_time": "11:19:35",
+    "close_time": "13:23:29",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "7:28:04",
+    "close_time": "13:48:59",
+    "delivery_point": "Way"
+  },
+  {
+    "open_time": "10:05:55",
+    "close_time": "15:06:17",
+    "delivery_point": "Pass"
+  },
+  {
+    "open_time": "7:58:21",
+    "close_time": "14:35:22",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "11:45:34",
+    "close_time": "13:14:47",
+    "delivery_point": "Junction"
+  },
+  {
+    "open_time": "11:37:54",
+    "close_time": "13:55:52",
+    "delivery_point": "Road"
+  },
+  {
+    "open_time": "10:28:08",
+    "close_time": "15:51:09",
+    "delivery_point": "Plaza"
+  },
+  {
+    "open_time": "7:50:30",
+    "close_time": "13:21:56",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "9:52:23",
+    "close_time": "14:58:01",
+    "delivery_point": "Road"
+  },
+  {
+    "open_time": "10:30:05",
+    "close_time": "14:37:32",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "10:13:42",
+    "close_time": "13:21:34",
+    "delivery_point": "Junction"
+  },
+  {
+    "open_time": "7:23:42",
+    "close_time": "13:20:36",
+    "delivery_point": "Street"
+  },
+  {
+    "open_time": "8:11:05",
+    "close_time": "14:22:26",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "11:27:18",
+    "close_time": "16:26:58",
+    "delivery_point": "Street"
+  },
+  {
+    "open_time": "10:07:33",
+    "close_time": "16:28:05",
+    "delivery_point": "Way"
+  },
+  {
+    "open_time": "8:59:59",
+    "close_time": "14:14:42",
+    "delivery_point": "Drive"
+  },
+  {
+    "open_time": "11:40:41",
+    "close_time": "16:54:38",
+    "delivery_point": "Lane"
+  },
+  {
+    "open_time": "10:47:08",
+    "close_time": "13:10:44",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "7:39:13",
+    "close_time": "16:57:39",
+    "delivery_point": "Terrace"
+  },
+  {
+    "open_time": "11:54:47",
+    "close_time": "14:33:16",
+    "delivery_point": "Plaza"
+  },
+  {
+    "open_time": "7:41:27",
+    "close_time": "16:54:52",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "9:41:37",
+    "close_time": "13:17:05",
+    "delivery_point": "Pass"
+  },
+  {
+    "open_time": "7:39:37",
+    "close_time": "16:02:05",
+    "delivery_point": "Parkway"
+  },
+  {
+    "open_time": "11:44:07",
+    "close_time": "16:46:21",
+    "delivery_point": "Way"
+  },
+  {
+    "open_time": "8:14:56",
+    "close_time": "15:19:41",
+    "delivery_point": "Avenue"
+  },
+  {
+    "open_time": "8:31:37",
+    "close_time": "14:30:52",
+    "delivery_point": "Alley"
+  },
+  {
+    "open_time": "8:29:18",
+    "close_time": "16:09:22",
+    "delivery_point": "Parkway"
+  },
+  {
+    "open_time": "9:25:30",
+    "close_time": "16:41:46",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "9:52:36",
+    "close_time": "15:52:22",
+    "delivery_point": "Parkway"
+  },
+  {
+    "open_time": "10:05:02",
+    "close_time": "15:29:44",
+    "delivery_point": "Pass"
+  },
+  {
+    "open_time": "7:20:54",
+    "close_time": "15:52:47",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "10:25:29",
+    "close_time": "14:07:02",
+    "delivery_point": "Point"
+  },
+  {
+    "open_time": "7:32:01",
+    "close_time": "13:44:03",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "10:28:19",
+    "close_time": "16:29:53",
+    "delivery_point": "Lane"
+  },
+  {
+    "open_time": "10:58:12",
+    "close_time": "16:10:15",
+    "delivery_point": "Parkway"
+  },
+  {
+    "open_time": "8:47:34",
+    "close_time": "16:31:03",
+    "delivery_point": "Street"
+  },
+  {
+    "open_time": "7:22:23",
+    "close_time": "15:18:17",
+    "delivery_point": "Junction"
+  },
+  {
+    "open_time": "9:19:48",
+    "close_time": "14:06:59",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "7:58:19",
+    "close_time": "14:23:12",
+    "delivery_point": "Center"
+  },
+  {
+    "open_time": "11:39:53",
+    "close_time": "13:08:15",
+    "delivery_point": "Hill"
+  },
+  {
+    "open_time": "8:11:21",
+    "close_time": "15:58:54",
+    "delivery_point": "Point"
+  },
+  {
+    "open_time": "9:27:33",
+    "close_time": "15:45:20",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "8:49:52",
+    "close_time": "15:41:45",
+    "delivery_point": "Center"
+  },
+  {
+    "open_time": "7:05:33",
+    "close_time": "16:18:16",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "11:39:56",
+    "close_time": "15:19:22",
+    "delivery_point": "Alley"
+  },
+  {
+    "open_time": "8:02:26",
+    "close_time": "15:44:03",
+    "delivery_point": "Avenue"
+  },
+  {
+    "open_time": "9:05:30",
+    "close_time": "16:06:41",
+    "delivery_point": "Lane"
+  },
+  {
+    "open_time": "10:10:34",
+    "close_time": "13:23:29",
+    "delivery_point": "Alley"
+  },
+  {
+    "open_time": "7:27:43",
+    "close_time": "14:46:10",
+    "delivery_point": "Terrace"
+  },
+  {
+    "open_time": "10:55:26",
+    "close_time": "14:56:22",
+    "delivery_point": "Junction"
+  },
+  {
+    "open_time": "11:42:49",
+    "close_time": "16:33:15",
+    "delivery_point": "Park"
+  },
+  {
+    "open_time": "11:35:07",
+    "close_time": "13:30:34",
+    "delivery_point": "Circle"
+  },
+  {
+    "open_time": "7:28:19",
+    "close_time": "15:32:00",
+    "delivery_point": "Lane"
+  },
+  {
+    "open_time": "10:37:42",
+    "close_time": "15:23:44",
+    "delivery_point": "Way"
+  },
+  {
+    "open_time": "11:11:08",
+    "close_time": "15:07:24",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "7:36:39",
+    "close_time": "13:53:43",
+    "delivery_point": "Lane"
+  },
+  {
+    "open_time": "7:46:03",
+    "close_time": "14:58:45",
+    "delivery_point": "Terrace"
+  },
+  {
+    "open_time": "7:51:29",
+    "close_time": "15:28:12",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "11:14:48",
+    "close_time": "16:10:37",
+    "delivery_point": "Street"
+  },
+  {
+    "open_time": "7:13:24",
+    "close_time": "14:50:34",
+    "delivery_point": "Terrace"
+  },
+  {
+    "open_time": "8:40:50",
+    "close_time": "13:52:54",
+    "delivery_point": "Place"
+  },
+  {
+    "open_time": "8:58:41",
+    "close_time": "16:30:55",
+    "delivery_point": "Pass"
+  },
+  {
+    "open_time": "11:25:25",
+    "close_time": "15:32:51",
+    "delivery_point": "Circle"
+  },
+  {
+    "open_time": "10:17:48",
+    "close_time": "16:08:48",
+    "delivery_point": "Street"
+  },
+  {
+    "open_time": "10:45:34",
+    "close_time": "15:46:41",
+    "delivery_point": "Plaza"
+  },
+  {
+    "open_time": "7:23:44",
+    "close_time": "16:40:30",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "10:36:07",
+    "close_time": "15:15:13",
+    "delivery_point": "Hill"
+  },
+  {
+    "open_time": "8:59:06",
+    "close_time": "16:44:50",
+    "delivery_point": "Plaza"
+  },
+  {
+    "open_time": "10:41:24",
+    "close_time": "15:50:11",
+    "delivery_point": "Alley"
+  },
+  {
+    "open_time": "8:44:10",
+    "close_time": "15:37:34",
+    "delivery_point": "Plaza"
+  },
+  {
+    "open_time": "7:46:48",
+    "close_time": "15:50:24",
+    "delivery_point": "Way"
+  },
+  {
+    "open_time": "8:56:01",
+    "close_time": "13:14:27",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "10:27:14",
+    "close_time": "13:07:13",
+    "delivery_point": "Lane"
+  },
+  {
+    "open_time": "7:58:59",
+    "close_time": "13:55:58",
+    "delivery_point": "Junction"
+  },
+  {
+    "open_time": "9:32:16",
+    "close_time": "13:10:54",
+    "delivery_point": "Way"
+  },
+  {
+    "open_time": "7:07:49",
+    "close_time": "14:36:03",
+    "delivery_point": "Circle"
+  },
+  {
+    "open_time": "7:21:10",
+    "close_time": "15:46:49",
+    "delivery_point": "Junction"
+  },
+  {
+    "open_time": "9:41:48",
+    "close_time": "14:40:05",
+    "delivery_point": "Terrace"
+  },
+  {
+    "open_time": "10:31:25",
+    "close_time": "15:13:29",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "10:27:48",
+    "close_time": "15:05:48",
+    "delivery_point": "Park"
+  },
+  {
+    "open_time": "11:39:31",
+    "close_time": "15:06:58",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "7:45:07",
+    "close_time": "16:38:18",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "9:16:06",
+    "close_time": "16:51:26",
+    "delivery_point": "Circle"
+  },
+  {
+    "open_time": "11:54:45",
+    "close_time": "14:29:26",
+    "delivery_point": "Avenue"
+  },
+  {
+    "open_time": "9:03:40",
+    "close_time": "15:28:14",
+    "delivery_point": "Parkway"
+  },
+  {
+    "open_time": "10:42:28",
+    "close_time": "14:07:02",
+    "delivery_point": "Pass"
+  },
+  {
+    "open_time": "8:29:56",
+    "close_time": "13:24:02",
+    "delivery_point": "Hill"
+  },
+  {
+    "open_time": "10:47:48",
+    "close_time": "14:42:39",
+    "delivery_point": "Junction"
+  },
+  {
+    "open_time": "11:43:00",
+    "close_time": "13:26:09",
+    "delivery_point": "Point"
+  },
+  {
+    "open_time": "10:11:51",
+    "close_time": "13:51:33",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "9:56:23",
+    "close_time": "15:14:08",
+    "delivery_point": "Avenue"
+  },
+  {
+    "open_time": "10:01:07",
+    "close_time": "13:06:20",
+    "delivery_point": "Park"
+  },
+  {
+    "open_time": "10:09:17",
+    "close_time": "15:37:05",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "8:49:16",
+    "close_time": "14:19:33",
+    "delivery_point": "Pass"
+  },
+  {
+    "open_time": "7:49:34",
+    "close_time": "13:01:42",
+    "delivery_point": "Lane"
+  },
+  {
+    "open_time": "10:38:01",
+    "close_time": "15:06:01",
+    "delivery_point": "Terrace"
+  },
+  {
+    "open_time": "8:41:39",
+    "close_time": "14:02:51",
+    "delivery_point": "Drive"
+  },
+  {
+    "open_time": "10:23:33",
+    "close_time": "14:15:54",
+    "delivery_point": "Road"
+  },
+  {
+    "open_time": "7:29:03",
+    "close_time": "13:53:45",
+    "delivery_point": "Parkway"
+  },
+  {
+    "open_time": "8:26:29",
+    "close_time": "14:33:29",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "11:53:51",
+    "close_time": "15:34:44",
+    "delivery_point": "Hill"
+  },
+  {
+    "open_time": "10:23:12",
+    "close_time": "16:34:18",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "8:26:33",
+    "close_time": "16:48:29",
+    "delivery_point": "Point"
+  },
+  {
+    "open_time": "8:31:35",
+    "close_time": "16:55:47",
+    "delivery_point": "Avenue"
+  },
+  {
+    "open_time": "8:21:37",
+    "close_time": "15:52:45",
+    "delivery_point": "Plaza"
+  },
+  {
+    "open_time": "11:31:15",
+    "close_time": "13:05:37",
+    "delivery_point": "Terrace"
+  },
+  {
+    "open_time": "7:19:20",
+    "close_time": "14:09:59",
+    "delivery_point": "Junction"
+  },
+  {
+    "open_time": "7:35:46",
+    "close_time": "14:03:12",
+    "delivery_point": "Hill"
+  },
+  {
+    "open_time": "9:16:22",
+    "close_time": "14:29:55",
+    "delivery_point": "Alley"
+  },
+  {
+    "open_time": "10:26:49",
+    "close_time": "14:05:21",
+    "delivery_point": "Terrace"
+  },
+  {
+    "open_time": "9:28:14",
+    "close_time": "16:41:07",
+    "delivery_point": "Way"
+  },
+  {
+    "open_time": "10:12:41",
+    "close_time": "13:19:47",
+    "delivery_point": "Place"
+  },
+  {
+    "open_time": "11:38:35",
+    "close_time": "14:40:37",
+    "delivery_point": "Circle"
+  },
+  {
+    "open_time": "9:58:12",
+    "close_time": "14:34:45",
+    "delivery_point": "Circle"
+  },
+  {
+    "open_time": "7:05:52",
+    "close_time": "13:16:03",
+    "delivery_point": "Junction"
+  },
+  {
+    "open_time": "10:13:38",
+    "close_time": "14:55:15",
+    "delivery_point": "Road"
+  },
+  {
+    "open_time": "10:16:48",
+    "close_time": "16:14:32",
+    "delivery_point": "Lane"
+  },
+  {
+    "open_time": "10:26:05",
+    "close_time": "15:01:49",
+    "delivery_point": "Circle"
+  },
+  {
+    "open_time": "10:31:24",
+    "close_time": "14:20:26",
+    "delivery_point": "Park"
+  },
+  {
+    "open_time": "10:32:19",
+    "close_time": "16:02:32",
+    "delivery_point": "Plaza"
+  },
+  {
+    "open_time": "9:06:21",
+    "close_time": "14:09:36",
+    "delivery_point": "Hill"
+  },
+  {
+    "open_time": "10:58:27",
+    "close_time": "13:54:48",
+    "delivery_point": "Center"
+  },
+  {
+    "open_time": "9:33:37",
+    "close_time": "13:10:01",
+    "delivery_point": "Parkway"
+  },
+  {
+    "open_time": "11:37:02",
+    "close_time": "15:32:10",
+    "delivery_point": "Circle"
+  },
+  {
+    "open_time": "9:23:23",
+    "close_time": "16:59:06",
+    "delivery_point": "Park"
+  },
+  {
+    "open_time": "10:21:44",
+    "close_time": "14:26:32",
+    "delivery_point": "Plaza"
+  },
+  {
+    "open_time": "11:42:36",
+    "close_time": "15:10:14",
+    "delivery_point": "Alley"
+  },
+  {
+    "open_time": "11:27:37",
+    "close_time": "16:49:57",
+    "delivery_point": "Road"
+  },
+  {
+    "open_time": "8:54:07",
+    "close_time": "14:13:49",
+    "delivery_point": "Way"
+  },
+  {
+    "open_time": "10:30:53",
+    "close_time": "14:18:47",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "7:21:42",
+    "close_time": "14:43:16",
+    "delivery_point": "Center"
+  },
+  {
+    "open_time": "10:19:41",
+    "close_time": "15:56:31",
+    "delivery_point": "Hill"
+  },
+  {
+    "open_time": "10:20:26",
+    "close_time": "13:56:15",
+    "delivery_point": "Road"
+  },
+  {
+    "open_time": "11:22:09",
+    "close_time": "15:51:54",
+    "delivery_point": "Road"
+  },
+  {
+    "open_time": "11:09:09",
+    "close_time": "15:24:27",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "10:57:34",
+    "close_time": "14:50:04",
+    "delivery_point": "Alley"
+  },
+  {
+    "open_time": "9:55:25",
+    "close_time": "16:21:41",
+    "delivery_point": "Street"
+  },
+  {
+    "open_time": "7:06:17",
+    "close_time": "16:42:37",
+    "delivery_point": "Avenue"
+  },
+  {
+    "open_time": "11:02:10",
+    "close_time": "15:38:38",
+    "delivery_point": "Hill"
+  },
+  {
+    "open_time": "11:22:00",
+    "close_time": "15:14:06",
+    "delivery_point": "Street"
+  },
+  {
+    "open_time": "10:26:22",
+    "close_time": "16:28:30",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "10:44:30",
+    "close_time": "13:33:08",
+    "delivery_point": "Plaza"
+  },
+  {
+    "open_time": "7:34:18",
+    "close_time": "13:18:05",
+    "delivery_point": "Plaza"
+  },
+  {
+    "open_time": "8:59:12",
+    "close_time": "13:25:13",
+    "delivery_point": "Place"
+  },
+  {
+    "open_time": "10:54:51",
+    "close_time": "16:06:24",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "11:13:20",
+    "close_time": "14:12:11",
+    "delivery_point": "Junction"
+  },
+  {
+    "open_time": "8:09:27",
+    "close_time": "13:42:40",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "8:47:45",
+    "close_time": "14:02:04",
+    "delivery_point": "Plaza"
+  },
+  {
+    "open_time": "10:47:15",
+    "close_time": "13:16:40",
+    "delivery_point": "Park"
+  },
+  {
+    "open_time": "11:47:49",
+    "close_time": "13:46:33",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "9:16:23",
+    "close_time": "15:55:38",
+    "delivery_point": "Terrace"
+  },
+  {
+    "open_time": "7:30:54",
+    "close_time": "14:14:53",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "8:59:50",
+    "close_time": "13:10:59",
+    "delivery_point": "Parkway"
+  },
+  {
+    "open_time": "10:16:42",
+    "close_time": "13:27:19",
+    "delivery_point": "Plaza"
+  },
+  {
+    "open_time": "10:42:23",
+    "close_time": "15:51:45",
+    "delivery_point": "Plaza"
+  },
+  {
+    "open_time": "8:30:54",
+    "close_time": "16:14:39",
+    "delivery_point": "Plaza"
+  },
+  {
+    "open_time": "7:52:46",
+    "close_time": "16:53:43",
+    "delivery_point": "Lane"
+  },
+  {
+    "open_time": "8:48:24",
+    "close_time": "14:05:56",
+    "delivery_point": "Junction"
+  },
+  {
+    "open_time": "7:56:17",
+    "close_time": "16:19:04",
+    "delivery_point": "Drive"
+  },
+  {
+    "open_time": "8:32:57",
+    "close_time": "13:45:42",
+    "delivery_point": "Park"
+  },
+  {
+    "open_time": "8:57:55",
+    "close_time": "13:01:10",
+    "delivery_point": "Way"
+  },
+  {
+    "open_time": "8:10:45",
+    "close_time": "14:27:14",
+    "delivery_point": "Crossing"
+  },
+  {
+    "open_time": "8:41:07",
+    "close_time": "15:45:51",
+    "delivery_point": "Circle"
+  },
+  {
+    "open_time": "11:26:29",
+    "close_time": "15:55:19",
+    "delivery_point": "Drive"
+  },
+  {
+    "open_time": "8:02:34",
+    "close_time": "13:51:07",
+    "delivery_point": "Pass"
+  },
+  {
+    "open_time": "11:07:01",
+    "close_time": "13:45:21",
+    "delivery_point": "Lane"
+  },
+  {
+    "open_time": "8:35:44",
+    "close_time": "15:03:48",
+    "delivery_point": "Alley"
+  },
+  {
+    "open_time": "8:45:32",
+    "close_time": "15:52:54",
+    "delivery_point": "Junction"
+  },
+  {
+    "open_time": "8:30:15",
+    "close_time": "15:06:42",
+    "delivery_point": "Lane"
+  },
+  {
+    "open_time": "8:35:21",
+    "close_time": "16:29:27",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "9:34:47",
+    "close_time": "13:01:21",
+    "delivery_point": "Pass"
+  },
+  {
+    "open_time": "11:12:23",
+    "close_time": "13:31:16",
+    "delivery_point": "Junction"
+  },
+  {
+    "open_time": "10:11:09",
+    "close_time": "14:18:32",
+    "delivery_point": "Terrace"
+  },
+  {
+    "open_time": "11:21:17",
+    "close_time": "16:01:28",
+    "delivery_point": "Street"
+  },
+  {
+    "open_time": "7:16:47",
+    "close_time": "15:12:52",
+    "delivery_point": "Lane"
+  },
+  {
+    "open_time": "11:19:42",
+    "close_time": "16:27:00",
+    "delivery_point": "Drive"
+  },
+  {
+    "open_time": "11:20:28",
+    "close_time": "15:11:23",
+    "delivery_point": "Hill"
+  },
+  {
+    "open_time": "7:46:32",
+    "close_time": "13:34:19",
+    "delivery_point": "Center"
+  },
+  {
+    "open_time": "9:06:06",
+    "close_time": "16:12:04",
+    "delivery_point": "Drive"
+  },
+  {
+    "open_time": "7:38:24",
+    "close_time": "16:05:18",
+    "delivery_point": "Drive"
+  },
+  {
+    "open_time": "11:17:47",
+    "close_time": "15:38:12",
+    "delivery_point": "Road"
+  },
+  {
+    "open_time": "8:41:45",
+    "close_time": "16:30:04",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "10:57:25",
+    "close_time": "14:56:15",
+    "delivery_point": "Avenue"
+  },
+  {
+    "open_time": "8:56:03",
+    "close_time": "15:51:58",
+    "delivery_point": "Terrace"
+  },
+  {
+    "open_time": "10:17:54",
+    "close_time": "13:50:53",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "9:02:49",
+    "close_time": "13:44:09",
+    "delivery_point": "Parkway"
+  },
+  {
+    "open_time": "8:33:38",
+    "close_time": "14:43:39",
+    "delivery_point": "Alley"
+  },
+  {
+    "open_time": "10:40:02",
+    "close_time": "16:36:21",
+    "delivery_point": "Lane"
+  },
+  {
+    "open_time": "8:40:41",
+    "close_time": "16:35:41",
+    "delivery_point": "Circle"
+  },
+  {
+    "open_time": "10:17:49",
+    "close_time": "16:29:23",
+    "delivery_point": "Drive"
+  },
+  {
+    "open_time": "9:01:52",
+    "close_time": "16:31:29",
+    "delivery_point": "Avenue"
+  },
+  {
+    "open_time": "11:28:23",
+    "close_time": "16:28:39",
+    "delivery_point": "Plaza"
+  },
+  {
+    "open_time": "11:35:26",
+    "close_time": "15:32:01",
+    "delivery_point": "Place"
+  },
+  {
+    "open_time": "10:11:43",
+    "close_time": "16:17:19",
+    "delivery_point": "Lane"
+  },
+  {
+    "open_time": "9:23:40",
+    "close_time": "14:25:30",
+    "delivery_point": "Point"
+  },
+  {
+    "open_time": "11:06:48",
+    "close_time": "13:53:55",
+    "delivery_point": "Drive"
+  },
+  {
+    "open_time": "8:33:05",
+    "close_time": "16:06:54",
+    "delivery_point": "Way"
+  },
+  {
+    "open_time": "9:59:58",
+    "close_time": "13:22:01",
+    "delivery_point": "Place"
+  },
+  {
+    "open_time": "11:37:03",
+    "close_time": "15:39:11",
+    "delivery_point": "Center"
+  },
+  {
+    "open_time": "11:20:59",
+    "close_time": "16:06:11",
+    "delivery_point": "Park"
+  },
+  {
+    "open_time": "9:31:07",
+    "close_time": "15:19:20",
+    "delivery_point": "Park"
+  },
+  {
+    "open_time": "8:10:26",
+    "close_time": "16:57:32",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "8:52:43",
+    "close_time": "15:34:23",
+    "delivery_point": "Pass"
+  },
+  {
+    "open_time": "7:48:27",
+    "close_time": "15:40:45",
+    "delivery_point": "Alley"
+  },
+  {
+    "open_time": "11:57:27",
+    "close_time": "13:50:09",
+    "delivery_point": "Junction"
+  },
+  {
+    "open_time": "8:28:13",
+    "close_time": "16:59:38",
+    "delivery_point": "Circle"
+  },
+  {
+    "open_time": "10:20:53",
+    "close_time": "15:53:45",
+    "delivery_point": "Parkway"
+  },
+  {
+    "open_time": "9:32:27",
+    "close_time": "16:48:12",
+    "delivery_point": "Trail"
+  },
+  {
+    "open_time": "10:16:29",
+    "close_time": "13:33:08",
+    "delivery_point": "Court"
+  },
+  {
+    "open_time": "8:02:26",
+    "close_time": "16:51:18",
+    "delivery_point": "Park"
+  }
 ]
