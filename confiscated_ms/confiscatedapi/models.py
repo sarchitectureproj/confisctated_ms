@@ -15,14 +15,14 @@ def validate_date(value):
 
 class Item(models.Model):
     
-    name = models.CharField(max_length=20)
+    name = models.CharField(max_length=24)
     confiscation_date = models.DateField(validators=[validate_date])
-    units = models.PositiveIntegerField(default=1, validators=[MinValueValidator(1), MaxValueValidator(100)])
+    units = models.PositiveIntegerField(default=1, validators=[MinValueValidator(1), MaxValueValidator(50)])
     category = models.ForeignKey(
         'Category',
         on_delete=models.PROTECT,
     )
-    passenger = models.CharField(max_length=2)
+    passenger = models.CharField(max_length=24)
     def __str__(self):
         return self.name
 
@@ -31,8 +31,8 @@ class Item(models.Model):
 
 class Category(models.Model):
     
-    name = models.CharField(max_length=20)
-    description = models.CharField(max_length=100)
+    name = models.CharField(max_length=24)
+    description = models.CharField(max_length=255)
     recoverable = models.BooleanField(default=True)
     delivery = models.ForeignKey(
         'Delivery',
@@ -58,7 +58,7 @@ class Delivery(models.Model):
     open_time = models.TimeField()
     close_time = models.TimeField()
     delivery_point = models.CharField(
-        max_length=20)
+        max_length=24)
 
     def clean(self):
         if self.open_time >= self.close_time:

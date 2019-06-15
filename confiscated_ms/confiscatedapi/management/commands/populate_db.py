@@ -21,7 +21,7 @@ class Command(BaseCommand):
         with open('./seeds/category.json') as json_file:  
             dataList = json.load(json_file)
         
-        for data in list(random.sample(dataList, k=50)):
+        for data in list(random.sample(dataList, k=40)):
             temp = Category(name=data["name"][:20],description=data["description"][:100],recoverable=data["recoverable"],delivery=Delivery.objects.get(id=data["delivery"]))
             temp.save()
 
@@ -30,8 +30,8 @@ class Command(BaseCommand):
         with open('./seeds/item.json') as json_file:  
             dataList = json.load(json_file)
         
-        for data in list(random.sample(dataList, k=500)):
-            temp = Item(name=data["name"],confiscation_date=data["confiscation_date"],units=data["units"],category=Category.objects.get(id=data["category"]),passenger=data["passenger"][:2])
+        for data in list(random.sample(dataList, k=200)):
+            temp = Item(name=data["name"][:20],confiscation_date=data["confiscation_date"],units=data["units"],category=Category.objects.get(id=data["category"]),passenger=data["passenger"])
             temp.save()
             
     def handle(self, *args, **options):
