@@ -81,7 +81,7 @@ DATABASES = {
         'NAME': 'confiscated_db',
         'USER': 'cite',
         'PASSWORD': 'citepp',
-        'HOST': 'confiscated-db',
+        'HOST': 'localhost',
         'PORT': '3306',
     }
 }
