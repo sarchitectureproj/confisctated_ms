@@ -13,7 +13,7 @@ services:
             MYSQL_HOST: 3306
             MYSQL_DATA: /var/lib/mysql
         ports:
-            - '3306:3306'
+            - '3307:3306'
         restart: always
         volumes:
             - my-datavolume:/var/lib/mysql
